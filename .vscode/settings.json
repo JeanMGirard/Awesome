@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "cSpell.enabled": false,
+    "ltex.enabled": false,
+    "eslint.enable": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.pytest_cache": true,
+        ".pytest_cache": true,
+        ".idea": true
+    },
+    "explorerExclude.backup": {
+    
+    }
+}
