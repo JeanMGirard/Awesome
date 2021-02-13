@@ -10,10 +10,10 @@
 ## awesome-Js
 
 **Graphics**
-Diagrams
+Diagrams   
 - [diagram-maker](https://github.com/awslabs/diagram-maker)
-- [reaflow](https://reaflow.dev/)
-Charts
+- [reaflow](https://reaflow.dev/)  
+Charts  
 - [D3](https://d3js.org/)  
   - [dimplejs](http://dimplejs.org/)
   - [Rickshaw](https://github.com/shutterstock/rickshaw) is a JavaScript toolkit for creating interactive time series graphs, developed at Shutterstock.
@@ -36,7 +36,7 @@ Charts
   - [NextJs](https://www.NextJs.com/)
   
 **Other**
-Spreadsheets
+Spreadsheets  
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-Grid systems
+Grid systems  
 - [golden-layout](http://golden-layout.com/)
