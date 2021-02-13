@@ -12,13 +12,14 @@
 #### Graphics
 **Diagrams**
 - [diagram-maker](https://github.com/awslabs/diagram-maker)
-- [reaflow](https://reaflow.dev/)  
+- [reaflow](https://reaflow.dev/)
+
 **Chart**
-- [D3](https://d3js.org/)  
-  - [dimplejs](http://dimplejs.org/)
-  - [Rickshaw](https://github.com/shutterstock/rickshaw) is a JavaScript toolkit for creating interactive time series graphs, developed at Shutterstock.
-  - [React Stockcharts](https://github.com/rrag/react-stockcharts)
-  - [reaviz](https://github.com/reaviz/reaviz)
+- [D3](https://d3js.org/)
+- [dimplejs](http://dimplejs.org/)
+- [Rickshaw](https://github.com/shutterstock/rickshaw) is a JavaScript toolkit for creating interactive time series graphs, developed at Shutterstock.
+- [React Stockcharts](https://github.com/rrag/react-stockcharts)
+- [reaviz](https://github.com/reaviz/reaviz)
 - [data-ui](https://williaster.github.io/data-ui/)
 - [semiotic](https://semiotic.nteract.io/)
 
