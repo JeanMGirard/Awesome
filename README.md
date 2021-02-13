@@ -9,11 +9,11 @@
 
 ## awesome-Js
 
-**Graphics**
-Diagrams   
+#### Graphics
+**Diagrams**
 - [diagram-maker](https://github.com/awslabs/diagram-maker)
 - [reaflow](https://reaflow.dev/)  
-Charts  
+**Chart**
 - [D3](https://d3js.org/)  
   - [dimplejs](http://dimplejs.org/)
   - [Rickshaw](https://github.com/shutterstock/rickshaw) is a JavaScript toolkit for creating interactive time series graphs, developed at Shutterstock.
@@ -23,20 +23,20 @@ Charts
 - [semiotic](https://semiotic.nteract.io/)
 
 
-**Frameworks**
-- General
+#### Frameworks
+**General**
   - [Aurelia](http://aurelia.io/home)
   - [angular](https://angular.io/)
   - [preact](https://github.com/preactjs/preact)
-- WebComponents
+**WebComponents**
   - [stenciljs](https://stenciljs.com/)
   - [polymer](https://www.polymer-project.org/)
-- Static sites
+**Static sites**
   - [gatsbyjs](https://www.gatsbyjs.com/)
   - [NextJs](https://www.NextJs.com/)
   
-**Other**
-Spreadsheets  
+#### Other
+**Spreadsheets**
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-Grid systems  
+**Grid systems**
 - [golden-layout](http://golden-layout.com/)
