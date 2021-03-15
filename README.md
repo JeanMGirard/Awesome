@@ -6,6 +6,10 @@
 
 - [localxpose](https://docs.localxpose.io/gui)
 
+**Bot Frameworks**
+- [botpress](https://botpress.com/)
+- [Bot Framework](https://dev.botframework.com/) (Microsoft): A comprehensive framework for building enterprise-grade conversational AI experiences
+- [microbot](https://microbot.is/)
 
 ## awesome-Js
 
@@ -39,8 +43,15 @@
 - [nedb](https://github.com/louischatriot/nedb)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 
+### Boilerplates
+- [ReactQL](https://github.com/leebenson/reactql): Universal front-end React + GraphQL starter kit, written in Typescript.
+- 
+
 #### Other
-- **Spreadsheets**
+- Spreadsheets
   - [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-- **Grid systems**
+- Grid systems
   - [golden-layout](http://golden-layout.com/)
+
+
+
