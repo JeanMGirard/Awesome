@@ -35,6 +35,10 @@
 - [nedb](https://github.com/louischatriot/nedb)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 
+### Testing
+- [gremlinsJs](https://github.com/marmelab/gremlins.js) A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
+- [cypress](https://www.cypress.io/) Browser end-to-end testing
+
 ### Boilerplates
 - [ReactQL](https://github.com/leebenson/reactql): Universal front-end React + GraphQL starter kit, written in Typescript.
 - 
