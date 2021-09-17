@@ -10,8 +10,11 @@
 
 ### Typescript
 
-### Libraries
-* https://github.com/sindresorhus/type-fest : A collection of essential TypeScript types
+### Useful packages
+* [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) : A collection of essential TypeScript types
+* [sindresorhus/open](https://github.com/sindresorhus/open) Open stuff like URLs, files, executables. Cross-platform.
+* [sindresorhus/find-up](https://github.com/sindresorhus/find-up) Find a file or directory by walking up parent directories
+
 
 **Plugins**
 - https://github.com/madou/ts-transform-defi
