@@ -1,7 +1,14 @@
 # awesome-react
 
+## Libraries
+- [Styled-components](https://styled-components.com)
+- [loadable-components](https://loadable-components.com/)
+
 ## Components
-### Collections
+- [Plate](https://plate.udecode.io/docs/Plate#renderelement) Slate based rich editor
+- [Styled-icons](https://github.com/styled-icons/styled-icons) (Styled-components) Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
+
+## UI Systens
 - [ant.design](https://ant.design/components/page-header/)
 - [Blueprint](https://blueprintjs.com/docs/#core/components/overflow-list)
 - [rsuiteJs](https://rsuitejs.com/en/components/message)
@@ -15,3 +22,7 @@
 
 ## Other lists
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-com
+
+
+### Awesome lists
+- [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
