@@ -13,9 +13,13 @@
 
 
 ## Awesome awesome lists
+https://github.com/enaqx/awesome-react
+* https://github.com/awesome-selfhosted/awesome-selfhosted
+* https://github.com/sindresorhus/awesome-nodejs
 
 **Other lists**  
 * [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
+
 
 
 
