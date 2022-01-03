@@ -5,8 +5,10 @@
 - [loadable-components](https://loadable-components.com/)
 
 ## Components
-- [Plate](https://plate.udecode.io/docs/Plate#renderelement) Slate based rich editor
-- [Styled-icons](https://github.com/styled-icons/styled-icons) (Styled-components) Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
+* [Plate](https://plate.udecode.io/docs/Plate#renderelement) Slate based rich editor
+* [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable components for spinners.
+* [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
+* [Styled-icons](https://github.com/styled-icons/styled-icons) (Styled-components) Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
 
 ## UI Systens
 - [ant.design](https://ant.design/components/page-header/)
@@ -22,7 +24,3 @@
 
 ## Other lists
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-com
-
-
-### Awesome lists
-- [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
