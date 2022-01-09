@@ -1,4 +1,4 @@
-# awesome JS (Front-end)
+# awesome Frontend / JS
 > (R): React, (A): Angular, (V): VueJS
 
 -----------------------------------------------------------
