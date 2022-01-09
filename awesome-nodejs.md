@@ -1,5 +1,6 @@
+# Awesome NodeJS
 
-
+------------------------------------------------------
 ## Libraries
 - [Base](https://github.com/base/base): Base is a foundation for creating modular, unit testable and highly pluggable server-side node.js APIs.
 
@@ -19,9 +20,11 @@
 * https://github.com/sindresorhus/get-port
 * Moment.js - Parse, validate, manipulate, and display dates.
 
+------------------------------------------------------
 ## Databases
 * https://github.com/louischatriot/nedb
-*     
+
+------------------------------------------------------ 
 ### CLI Tools
 https://github.com/davglass/license-checker
 https://github.com/kevva/wifi-password-cli
