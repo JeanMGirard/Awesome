@@ -17,6 +17,7 @@
 - [react-UWP](https://www.react-uwp.com/components/autosuggestbox)
 - [material components](https://github.com/material-components/material-components-web-react)
 - [PrimeReact](https://www.primefaces.org/primereact/#/card)
+- [react-uwp](https://www.react-uwp.com/get-started) Microsoft's UWP design for React
 
 ### Units
 - [Golden layout](http://golden-layout.com/examples/#7c599be2a33fb57a47dfb43a53df2437) Grid system
