@@ -1,16 +1,16 @@
 
+
+## Libraries
+- [Base](https://github.com/base/base): Base is a foundation for creating modular, unit testable and highly pluggable server-side node.js APIs.
+
 ### Must have
-https://github.com/lodash/lodash
-https://github.com/reactivex/rxjs
+* https://github.com/lodash/lodash
+* https://github.com/reactivex/rxjs
 
 ### Web frameworks
 - [NestJS](https://nestjs.com/) A progressive Node.js framework for building efficient, reliable and scalable server-side applications. **platform agnostic**
 - [Fastify](/)
 - [LoopBack](https://strongloop.com/) IBM maintained REST Api framework
-
-### Libraries
-- [Base](https://github.com/base/base): Base is a foundation for creating modular, unit testable and highly pluggable server-side node.js APIs.
-
 
 ### Utilities
 * [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) : A collection of essential TypeScript types
@@ -19,7 +19,10 @@ https://github.com/reactivex/rxjs
 * https://github.com/sindresorhus/get-port
 * Moment.js - Parse, validate, manipulate, and display dates.
 
-### Command-lines
+## Databases
+* https://github.com/louischatriot/nedb
+*     
+### CLI Tools
 https://github.com/davglass/license-checker
 https://github.com/kevva/wifi-password-cli
 https://github.com/nogizhopaboroda/iponmap
