@@ -12,6 +12,9 @@
 * [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
 * [Lerna](/)
 
+**Other tools**
+* [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+
 ## Versionning 
 * [Semantic release](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/installation.md#installation)
   
