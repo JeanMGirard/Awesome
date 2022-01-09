@@ -1,4 +1,25 @@
-# awesome
+# Awesome
+
+## My lists
+* [DevKits](./awesome-devkits.md)
+* [Frontend](./awesome-frontend.md) Web, components, JS, etc...
+* [NodeJS](./awesome-nodejs.md)
+* [React](./awesome-react.md)
+
+
+
+## Other Awesome Lists
+https://github.com/enaqx/awesome-react
+* https://github.com/awesome-selfhosted/awesome-selfhosted
+* https://github.com/sindresorhus/awesome-nodejs
+
+**Other lists**  
+* [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
+
+
+
+
+## Prospects
 
 **Shell Utilities**
 - [.NET Core tools](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools)
@@ -10,18 +31,3 @@
 - [botpress](https://botpress.com/)
 - [Bot Framework](https://dev.botframework.com/) (Microsoft): A comprehensive framework for building enterprise-grade conversational AI experiences
 - [microbot](https://microbot.is/)
-
-
-## Awesome awesome lists
-https://github.com/enaqx/awesome-react
-* https://github.com/awesome-selfhosted/awesome-selfhosted
-* https://github.com/sindresorhus/awesome-nodejs
-
-**Other lists**  
-* [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
-
-
-
-
-
-
