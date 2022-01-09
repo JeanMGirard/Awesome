@@ -2,6 +2,7 @@
 
 ## Code generators
 * [plopjs](https://github.com/plopjs/plop)
+* [Hygen](/)
 * Yeoman
 
 ## Workspaces
