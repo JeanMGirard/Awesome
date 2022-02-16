@@ -4,7 +4,7 @@
 * [communities](./awesome-communities.md) - Channels, forums, organizations, etc...
 * [Infrastructure as Code](./awesome-IaC.md) (IaC)
 * [apis](./awesome-apis.md)
-* [Dev](./awesome-dev.md) Development environment (Monorepo, linters, etc...)
+* [Dev](./awesome-dev.md) - dev environments (Monorepos, linters, etc...)
 * Javascript
   * [Frontend](./awesome-frontend.md) Web, components, JS, etc...
     * [React](./awesome-react.md)
