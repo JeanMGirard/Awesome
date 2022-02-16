@@ -6,21 +6,22 @@
 
 ### Frameworks
 
-- **General**
-  - Dojo
+- _General__
+  - **Dojo**
   - [Aurelia](http://aurelia.io/home)
-  - [angular](https://angular.io/)
-  - [preact](https://github.com/preactjs/preact)
-- **WebComponents**
+  - [Angular](https://angular.io/)
+  - **React**
+  - [Preact](https://github.com/preactjs/preact)
+- __WebComponents__
   - [stenciljs](https://stenciljs.com/)
   - [polymer](https://www.polymer-project.org/)
-- **Static sites**
+- __Static sites__
   - [gatsbyjs](https://www.gatsbyjs.com/)
   - [NextJs](https://www.NextJs.com/)
 
 ### Components  
 
-- **Charts**
+- __Charts__
   - [D3](https://d3js.org/)
   - [dimplejs](http://dimplejs.org/)
   - [Rickshaw](https://github.com/shutterstock/rickshaw) is a JavaScript toolkit for creating interactive time series graphs, developed at Shutterstock.
@@ -28,14 +29,14 @@
   - (R) [reaviz](https://github.com/reaviz/reaviz)
   - [data-ui](https://williaster.github.io/data-ui/)
   - [semiotic](https://semiotic.nteract.io/)
-- **Diagrams**
+- __Diagrams__
   - [diagram-maker](https://github.com/awslabs/diagram-maker)
   - (R) [reaflow](https://reaflow.dev/)
-- **Spreadsheets**
+- __Spreadsheets__
   - [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-- **Grid systems**
+- __Grid systems__
   - [golden-layout](http://golden-layout.com/)
-- **other**
+- __other__
   - (R) [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd): Simple drag & drop
 
 
