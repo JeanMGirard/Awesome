@@ -11,8 +11,5 @@
 
 ## Places to learn
 * [google developers](https://developers.google.com/web)
+* [mozilla developers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-
-
-Other
-https://developers.google.com/closure/compiler/docs/gettingstarted_api
