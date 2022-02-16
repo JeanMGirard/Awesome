@@ -1,4 +1,4 @@
-# Awesome IaS
+# Awesome IaC
 
 ## Frameworks
 * Terraform
