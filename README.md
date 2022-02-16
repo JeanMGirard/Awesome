@@ -1,13 +1,14 @@
 # Awesome
 
 ## My lists
-* [communities](./awesome-communities.md)
-* [IaS](./awesome-IaS.md) - Infrastructure as Code
+* [communities](./awesome-communities.md) - Channels, forums, organizations, etc...
+* [Infrastructure as Code](./awesome-IaC.md) (IaC)
 * [apis](./awesome-apis.md)
 * [DevKits](./awesome-devkits.md)
-* [Frontend](./awesome-frontend.md) Web, components, JS, etc...
-* [NodeJS](./awesome-nodejs.md)
-* [React](./awesome-react.md)
+* Javascript
+  * [Frontend](./awesome-frontend.md) Web, components, JS, etc...
+    * [React](./awesome-react.md)
+  * [NodeJS](./awesome-nodejs.md)
 
 
 
