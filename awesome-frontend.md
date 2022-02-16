@@ -6,7 +6,7 @@
 
 ### Frameworks
 
-- _General__
+- __General__
   - **Dojo**
   - [Aurelia](http://aurelia.io/home)
   - [Angular](https://angular.io/)
