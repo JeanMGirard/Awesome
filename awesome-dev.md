@@ -28,6 +28,14 @@
 ## Documentation
 * [Verb](https://github.com/verbose/verb/tree/dev): Verb is a documentation build system for GitHub projects powered by node.js. Verb has full support for gulp and assemble plugins and can be used to create documentation generators, themes, documentation websites and much more!
 
+## Internal developer platforms (IDPs)
+* [backstage.io][backstage_io] open platform for building developer portals
+* [portainer][portainer] centralized service delivery platform for containerized apps
+
 ---------------------------------------------------
 ###### Other prospects  
 * https://octopus.com/
+
+
+[portainer]: https://www.portainer.io/
+[backstage_io]: https://backstage.io/
