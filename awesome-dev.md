@@ -1,6 +1,7 @@
 # Awesome Dev
 
 
+
 ---------------------------------------------------------------------------------------------------
 ## Frameworks & libraries
 
@@ -43,19 +44,16 @@
 
 
 ---------------------------------------------------------------------------------------------------
-## Resources
-
-
+## Resources  
+* [Developer roadmaps](https://roadmap.sh/)
 
 ---------------------------------------------------------------------------------------------------
 ## Definitions
 
-### Software
+### Software development
 
 __Technical domains__  
 * Infrastructure as code (IaC)
-
-__Product lifecycle__  
 * Continuous integration (CI)
 * Continuous delivery (CD)
 
@@ -67,9 +65,15 @@ __Product categories__
 * Internal developer platforms (IDPs)
 
 
-### Entreprise processuses
+### Business process
+__Categories__
+* Total quality management (TQM)
+* Knowledge management (KM)
+
+__Documents__  
 * Request for Comments (RFC)
 * Architecture Decision Record (ADR)
+* Business Requirements Document (BRD)
 
 
 ---------------------------------------------------------------------------------------------------
