@@ -2,7 +2,6 @@
 
 
 ---------------------------------------------------------------------------------------------------
-
 ## Frameworks & libraries
 
 ### Code generators
@@ -11,14 +10,15 @@
 * Yeoman
 
 ### Workspaces
-* [TurboRepo](https://turborepo.org/)
-* [Nx](https://nx.dev/)
-* [jhipster](https://www.jhipster.tech/installation/)
-* [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
-* [Lerna](/)
 
-**Other tools**
-* [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+* __Monorepos__
+  * [TurboRepo](https://turborepo.org/)
+  * [Nx](https://nx.dev/)
+  * [jhipster](https://www.jhipster.tech/installation/)
+  * [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
+  * [Lerna](/)
+* __CLI Tools__
+  * [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
 
 ### Versionning 
 * [Semantic release](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/installation.md#installation)
@@ -48,16 +48,23 @@
 
 
 ---------------------------------------------------------------------------------------------------
-## Lexicon
+## Definitions
 
 ### Software
 
-__Technical domains__
+__Technical domains__  
 * Infrastructure as code (IaC)
 
 __Product lifecycle__  
 * Continuous integration (CI)
 * Continuous delivery (CD)
+
+__Product categories__  
+* Software as a service (SaaS)
+* Platform as a service (Paas)
+* Backend as a service (BaaS)
+* Function as a service (FaaS)
+* Internal developer platforms (IDPs)
 
 
 ### Entreprise processuses
