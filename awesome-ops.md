@@ -15,9 +15,10 @@ Azure DevOps
 
 
 ### Templates
-#### AWS CloudFormation
-* [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
-
+* AWS CloudFormation
+ * [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
+* Terraform
+ * [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
 
 ### Libraries & tools
 * Serverless (js)
