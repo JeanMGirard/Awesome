@@ -14,6 +14,7 @@
 
 
 ## Other Awesome Lists
+* https://github.com/bayandin/awesome-awesomeness
 * https://github.com/enaqx/awesome-react
 * https://github.com/awesome-selfhosted/awesome-selfhosted
 * https://github.com/sindresorhus/awesome-nodejs
@@ -32,5 +33,6 @@
 * [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
 * https://github.com/aviaryan/awesome-no-login-web-apps
 * https://github.com/danvoyce/awesome-creative-tech-events
+* https://github.com/Level/awesome
 
 
