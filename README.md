@@ -18,8 +18,19 @@
 * https://github.com/awesome-selfhosted/awesome-selfhosted
 * https://github.com/sindresorhus/awesome-nodejs
 * https://github.com/korfuri/awesome-monorepo
+* https://github.com/avelino/awesome-go
+* https://github.com/rehooks/awesome-react-hooks
+* https://github.com/awesome-foss/awesome-sysadmin
+* https://github.com/chentsulin/awesome-graphql
+* https://github.com/quozd/awesome-dotnet
+* https://github.com/docker/awesome-compose
+* https://github.com/veggiemonk/awesome-docker
+* https://github.com/sindresorhus/awesome-electron
+* https://github.com/sindresorhus/awesome-nodejs
 
 **Other lists**  
 * [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
+* https://github.com/aviaryan/awesome-no-login-web-apps
+* https://github.com/danvoyce/awesome-creative-tech-events
 
 
