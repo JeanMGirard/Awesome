@@ -17,14 +17,15 @@
 
 ## Other Awesome Lists
 
+* [Awesome](https://github.com/sindresorhus/awesome) The one and only sindresorhus' list of awesome lists
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * https://github.com/enaqx/awesome-react
-* https://github.com/awesome-selfhosted/awesome-selfhosted
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * https://github.com/sindresorhus/awesome-nodejs
 * https://github.com/korfuri/awesome-monorepo
 * https://github.com/avelino/awesome-go
 * https://github.com/rehooks/awesome-react-hooks
-* https://github.com/awesome-foss/awesome-sysadmin
+* [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * https://github.com/chentsulin/awesome-graphql
 * https://github.com/quozd/awesome-dotnet
 * https://github.com/docker/awesome-compose
