@@ -7,10 +7,10 @@
 * [Containers](./awesome-containers.md) - Docker, Kubernetes
 * [APIs](./awesome-apis.md)
 * [Workspace](./awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
-* Javascript
-  * [Frontend](./awesome-frontend.md) Web, components, JS, etc...
-    * [React](./awesome-react.md)
-  * [NodeJS](./awesome-nodejs.md)
+* Languages
+  * Javascript
+    * [Frontend](./awesome-frontend.md) Web components, React, etc...
+    * [NodeJS](./awesome-nodejs.md)
 
 
 
