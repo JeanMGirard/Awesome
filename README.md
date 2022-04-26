@@ -4,9 +4,9 @@
 
 * [Communities](./awesome-communities.md) - Channels, forums, organizations, etc...
 * [DevOps](./awesome-devops.md) Infrastructure as Code (IaC), GitOps
-* [Containers](./awesome-containers.md)
+* [Containers](./awesome-containers.md) - Docker, Kubernetes
 * [APIs](./awesome-apis.md)
-* [Dev](./awesome-dev.md) - dev environments (Monorepos, linters, etc...)
+* [Workspace](./awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
 * Javascript
   * [Frontend](./awesome-frontend.md) Web, components, JS, etc...
     * [React](./awesome-react.md)
