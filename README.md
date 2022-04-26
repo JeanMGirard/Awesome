@@ -1,9 +1,10 @@
 # Awesome
 
 ## My lists
+
 * [Communities](./awesome-communities.md) - Channels, forums, organizations, etc...
-* [Infrastructure as Code](./awesome-IaC.md) (IaC)
-* [Containers](./awesome-containers.md) (IaC)
+* [DevOps](./awesome-devops.md) Infrastructure as Code (IaC), GitOps
+* [Containers](./awesome-containers.md)
 * [APIs](./awesome-apis.md)
 * [Dev](./awesome-dev.md) - dev environments (Monorepos, linters, etc...)
 * Javascript
@@ -15,7 +16,8 @@
 
 
 ## Other Awesome Lists
-* https://github.com/bayandin/awesome-awesomeness
+
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * https://github.com/enaqx/awesome-react
 * https://github.com/awesome-selfhosted/awesome-selfhosted
 * https://github.com/sindresorhus/awesome-nodejs
@@ -38,6 +40,7 @@
 
 
 ## To add / Classify
+
 https://github.com/google/playground-elements
 https://github.com/kamranahmedse/developer-roadmap
 https://github.com/github/gitignore
