@@ -1,10 +1,10 @@
 # Awesome
 
 ## My lists
-* [communities](./awesome-communities.md) - Channels, forums, organizations, etc...
+* [Communities](./awesome-communities.md) - Channels, forums, organizations, etc...
 * [Infrastructure as Code](./awesome-IaC.md) (IaC)
 * [Containers](./awesome-containers.md) (IaC)
-* [apis](./awesome-apis.md)
+* [APIs](./awesome-apis.md)
 * [Dev](./awesome-dev.md) - dev environments (Monorepos, linters, etc...)
 * Javascript
   * [Frontend](./awesome-frontend.md) Web, components, JS, etc...
@@ -35,5 +35,21 @@
 * https://github.com/aviaryan/awesome-no-login-web-apps
 * https://github.com/danvoyce/awesome-creative-tech-events
 * https://github.com/Level/awesome
+
+
+## To add / Classify
+https://github.com/google/playground-elements
+https://github.com/kamranahmedse/developer-roadmap
+https://github.com/github/gitignore
+https://github.com/fingerprintjs/fingerprintjs
+https://github.com/mermaid-js/mermaid
+https://github.com/src-d/hercules
+https://github.com/badges/shields
+https://github.com/cycloidio/terracognita
+
+
+
+
+
 
 
