@@ -1,12 +1,19 @@
 # Awesome DevOps
 
+------------------------------------------------------------------------------------------
 
-## DevOps
-Azure DevOps
+## Overview
 
-------------------------------
-## IaC
+
 ### Frameworks
+
+__Cloud Functions__ (FaaS)  
+
+* Serverless (js/python)
+* OpenFaas
+
+__Infrastructure as code__ (IaC)  
+
 * Terraform
   * Terragrunt
   * Terraspace
@@ -14,19 +21,14 @@ Azure DevOps
 * CloudFormation
 
 
-### Templates
-* AWS CloudFormation
- * [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
-* Terraform
- * [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
-
-### Libraries & tools
-* Serverless (js)
-
-
-------------------------------
+------------------------------------------------------------------------------------------
 
 ## Resources
+
+### Services
+
+* Azure DevOps
+* AWS DevOps
 
 ### Tools
 
@@ -69,3 +71,14 @@ Azure DevOps
 Time to Value
 Sprint Accuracy
 Flow Efficiency
+
+
+### Templates
+* __AWS CloudFormation__
+ * [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
+* __Terraform__
+ * [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
+
+
+
+
