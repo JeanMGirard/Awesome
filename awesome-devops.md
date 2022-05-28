@@ -1,9 +1,9 @@
 # Awesome DevOps
 
+
+
 ------------------------------------------------------------------------------------------
-
 ## Overview
-
 
 ### Frameworks
 
@@ -18,14 +18,9 @@
   * CloudFormation
 
 
+
 ------------------------------------------------------------------------------------------
-
-## Resources
-
-### Services
-
-* Azure DevOps
-* AWS DevOps
+## KPIs
 
 ### Tools
 
@@ -60,21 +55,27 @@
 * [Availability]() Availability highlights the extent of downtime for a given application.
 * [Unplanned Work]() How much time is dedicated to unexpected efforts? The unplanned work rate (UWR) tracks this in relation to time spent on planned work. Ideally, the unplanned work rate (UWR) will not exceed 25 percent.
 * [Cycle Time]() Cycle time metrics provide a broad overview of application deployment.
-* []()
-* []()
-* []()
-* []()
 
 Time to Value
 Sprint Accuracy
 Flow Efficiency
 
+------------------------------------------------------------------------------------------
+
+## Resources
+
+### Services
+
+* Azure DevOps
+* AWS DevOps
 
 ### Templates
-* __AWS CloudFormation__
- * [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
-* __Terraform__
- * [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
+
+__AWS CloudFormation__  
+* [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
+ 
+__Terraform__  
+* [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
 
 
 
