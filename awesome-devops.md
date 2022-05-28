@@ -20,10 +20,11 @@
 
 
 ------------------------------------------------------------------------------------------
-## Teams, internal platforms (IdPs) and KPIs
+## Teams and KPIs
 
 ### Tools
 
+* internal platforms (IdPs)
 * Software development analytics
   * :star: [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Suite of tools [tutorial](https://chaoss.github.io/grimoirelab-tutorial/)
   * :star: [hercules]( https://github.com/src-d/hercules]) Fast, insightful and highly customizable Git history analysis.
