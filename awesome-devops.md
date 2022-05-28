@@ -7,18 +7,15 @@
 
 ### Frameworks
 
-__Cloud Functions__ (FaaS)  
-
-* Serverless (js/python)
-* OpenFaas
-
-__Infrastructure as code__ (IaC)  
-
-* Terraform
-  * Terragrunt
-  * Terraspace
-* AWS SAM
-* CloudFormation
+* __Cloud Functions__ (FaaS)  
+ * Serverless (js/python)
+ * OpenFaas
+* __Infrastructure as code__ (IaC)  
+ * Terraform
+   * Terragrunt
+   * Terraspace
+ * AWS SAM
+ * CloudFormation
 
 
 ------------------------------------------------------------------------------------------
