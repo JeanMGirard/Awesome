@@ -28,10 +28,13 @@
  * Gitlab
    * [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
    * [release-cli](https://gitlab.com/gitlab-org/release-cli)create release objects in GitLab
+ * [pre-commit](https://pre-commit.com/) A framework for managing and maintaining multi-language pre-commit hooks.
 
 ### Infrascrutures as Code (IaC)
 
 * [Terraform]()
+  * 🌟 [terraspace](https://terraspace.cloud/) The Terraform Framework
+  * 🌟 [terragrunt] - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
   * ⭐ [Terraform-docs](https://terraform-docs.io/) Generate Terraform modules documentation in various formats
   * ⭐ [terraform-cdk](https://github.com/hashicorp/terraform-cdk) Cloud Development Kit for Terraform (CDKTF) allows you to use familiar programming languages to define cloud infrastructure. 
   * [terraboard](https://terraboard.io/) A Web dashboard to inspect and query Terraform states
@@ -42,6 +45,10 @@
   * 👓 [InfraMap](https://github.com/cycloidio/inframap): Reads .tfstate or HCL to generate a graph specific for each provider
   * 👓 [TerraCognita](https://github.com/cycloidio/terracognita): Read from your existing cloud providers and generate IaC in Terraform
   * 👓 [TerraCost](https://github.com/cycloidio/terracost) Cloud cost estimation for Terraform in the CLI
+  * ⭐ [tfenv](https://github.com/tfutils/tfenv) Terraform version manager inspired by rbenv.
+  * ⭐ [tfsec](https://github.com/aquasecurity/tfsec) Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
+  * 👓 [terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure. Infrastructure to Code. Supported many providers.
+  * [Argonaut](https://www.argonaut.dev/) Provision environments, cloud managed infrastructure, app deployments, and third party tools in one place.
 
 ### Monorepo & Build systems
 * [Bazel]()
@@ -70,10 +77,13 @@
 
 
 ------------------------------------------------------------------------------------------
-## Articles
+## Articles & Tutorials
 
-### 
+### Infras
 * [Terragrunt — Inter-module dependency management](https://itnext.io/terragrunt-inter-module-dependency-management-36528693acdf)
+* [AWS Lambda the Terraform Way](https://github.com/nsriram/lambda-the-terraform-way)
+* [How to Manage AWS Lambda Functions with Terraform: Tutorial](https://spacelift.io/blog/terraform-aws-lambda)
+* [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
 
 ### Teams and KPIs
 * [15 DevOps Metrics & Key Performance Indicators (KPIs) To Track](https://phoenixnap.com/blog/devops-metrics-kpis)
