@@ -1,7 +1,6 @@
 # Awesome DevOps
 
 
-
 ------------------------------------------------------------------------------------------
 ## Overview
 
@@ -17,30 +16,72 @@
   * AWS SAM
   * CloudFormation
 
+### Awesome lists
+* [terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
+
+------------------------------------------------------------------------------------------
+## Tools
+
+### Repository Tools
+* Git
+ * [Github CLI](https://cli.github.com/)
+ * Gitlab
+   * [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
+   * [release-cli](https://gitlab.com/gitlab-org/release-cli)create release objects in GitLab
+
+### Infrascrutures as Code (IaC)
+
+* [Terraform]()
+  * ⭐ [Terraform-docs](https://terraform-docs.io/) Generate Terraform modules documentation in various formats
+  * ⭐ [terraform-cdk](https://github.com/hashicorp/terraform-cdk) Cloud Development Kit for Terraform (CDKTF) allows you to use familiar programming languages to define cloud infrastructure. 
+  * [terraboard](https://terraboard.io/) A Web dashboard to inspect and query Terraform states
+  * [terrafile](https://github.com/coretech/terrafile) manage external modules from Github for use in Terraform.
+  * [terramate](https://github.com/mineiros-io/terramate) erramate is a tool for managing multiple Terraform stacks.
+  * [Terraform Visual](https://github.com/hieven/terraform-visual) Terraform Visual is a simple tool to help you understand your Terraform plan easily.
+  * ⭐ [Infracost](https://www.infracost.io/) Cloud cost estimates for Terraform in pull requests
+  * 👓 [InfraMap](https://github.com/cycloidio/inframap): Reads .tfstate or HCL to generate a graph specific for each provider
+  * 👓 [TerraCognita](https://github.com/cycloidio/terracognita): Read from your existing cloud providers and generate IaC in Terraform
+  * 👓 [TerraCost](https://github.com/cycloidio/terracost) Cloud cost estimation for Terraform in the CLI
+
+### Monorepo & Build systems
+* [Bazel]()
+* [TurboRepo](https://turborepo.org/)
+* [Nx](https://nx.dev/)
+* [jhipster](https://www.jhipster.tech/installation/)
+* [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
+* [Lerna](/)
+  
+### Internal developer platforms (IDPs)
+* [backstage.io][backstage_io] open platform for building developer portals
+* [portainer][portainer] centralized service delivery platform for containerized apps
+
+### Software development analytics
+* :star: [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Suite of tools [tutorial](https://chaoss.github.io/grimoirelab-tutorial/)
+* :star: [hercules]( https://github.com/src-d/hercules]) Fast, insightful and highly customizable Git history analysis.
+* [Apache Kibble](https://kibble.apache.org/) Apache Kibble is a suite of tools for collecting, aggregating and visualizing activity in software projects.
+* [srcML](https://www.srcml.org/)
+* [sourcecred](https://sourcecred.io/) A tool for communities to measure and reward value creation.
+* [git-stats](https://github.com/IonicaBizau/git-stats) Local git statistics including GitHub-like contributions calendars.
+* [git-quick-stats](https://github.com/arzzen/git-quick-stats) a simple and efficient way to access various statistics in a git repository.
+* [git-hammer](https://github.com/asharov/git-hammer) Git Hammer is a statistics tool for projects in git repositories.
+
+### Security analysis
+* [dependabot](https://dependabot.com/): Automated dependency updates
 
 
 ------------------------------------------------------------------------------------------
-## Teams and KPIs
+## Articles
 
-### Tools
+### 
+* [Terragrunt — Inter-module dependency management](https://itnext.io/terragrunt-inter-module-dependency-management-36528693acdf)
 
-* internal platforms (IdPs)
-* Software development analytics
-  * :star: [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Suite of tools [tutorial](https://chaoss.github.io/grimoirelab-tutorial/)
-  * :star: [hercules]( https://github.com/src-d/hercules]) Fast, insightful and highly customizable Git history analysis.
-  * [Apache Kibble](https://kibble.apache.org/) Apache Kibble is a suite of tools for collecting, aggregating and visualizing activity in software projects.
-  * [srcML](https://www.srcml.org/)
-  * [sourcecred](https://sourcecred.io/) A tool for communities to measure and reward value creation.
-  * [git-stats](https://github.com/IonicaBizau/git-stats) Local git statistics including GitHub-like contributions calendars.
-  * [git-quick-stats](https://github.com/arzzen/git-quick-stats) a simple and efficient way to access various statistics in a git repository.
-  * [git-hammer](https://github.com/asharov/git-hammer) Git Hammer is a statistics tool for projects in git repositories.
-
-### Articles
-
+### Teams and KPIs
 * [15 DevOps Metrics & Key Performance Indicators (KPIs) To Track](https://phoenixnap.com/blog/devops-metrics-kpis)
 * [devops-metrics-and-kpis](https://www.appdynamics.com/topics/devops-metrics-and-kpis#~8-devops-resources)
 
-### Metrics
+
+------------------------------------------------------------------------------------------
+## Metrics
 
 * [Lead Time]() Lead time measures how long it takes for a change to occur. <br/> Measuring the average time it takes for a concept to go from an idea to implementation is an effective metric for evaluating workflow and productivity. Reduced lead times indicate that your DevOps team is adaptive, productive, and capable of addressing feedback promptly.
 * [Deployment Frequency]() Deployment frequency denotes how often new features or capabilities are launched. Frequency can be measured on a daily or weekly basis. Many organizations prefer to track deployments daily, especially as they improve efficiency.
