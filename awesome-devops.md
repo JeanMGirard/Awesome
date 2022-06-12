@@ -34,7 +34,7 @@
 
 * [Terraform]()
   * 🌟 [terraspace](https://terraspace.cloud/) The Terraform Framework
-  * 🌟 [terragrunt] - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
+  * 🌟 [terragrunt]() - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
   * ⭐ [Terraform-docs](https://terraform-docs.io/) Generate Terraform modules documentation in various formats
   * ⭐ [terraform-cdk](https://github.com/hashicorp/terraform-cdk) Cloud Development Kit for Terraform (CDKTF) allows you to use familiar programming languages to define cloud infrastructure. 
   * [terraboard](https://terraboard.io/) A Web dashboard to inspect and query Terraform states
@@ -59,8 +59,8 @@
 * [Lerna](/)
   
 ### Internal developer platforms (IDPs)
-* [backstage.io][backstage_io] open platform for building developer portals
-* [portainer][portainer] centralized service delivery platform for containerized apps
+* [backstage.io]() open platform for building developer portals
+* [portainer]() centralized service delivery platform for containerized apps
 
 ### Software development analytics
 * :star: [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Suite of tools [tutorial](https://chaoss.github.io/grimoirelab-tutorial/)
