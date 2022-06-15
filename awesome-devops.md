@@ -75,7 +75,7 @@ __[Terraform]()__
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) a simple and efficient way to access various statistics in a git repository.
 * [git-hammer](https://github.com/asharov/git-hammer) Git Hammer is a statistics tool for projects in git repositories.
 
-### Security analysis
+### Static analysis
 
 __dependency analysis__
 * [dependabot](https://dependabot.com/): Automated dependency updates
