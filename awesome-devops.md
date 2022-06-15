@@ -24,7 +24,7 @@
 
 ### Repository Tools
 
-**Git**  
+__Git__
 * [Github CLI](https://cli.github.com/)
 * Gitlab
   * [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
@@ -34,7 +34,7 @@
 
 ### Infrascrutures as Code (IaC)
 
-**[Terraform]()**
+__[Terraform]()__
 * 🌟 [terraspace](https://terraspace.cloud/) The Terraform Framework
 * 🌟 [terragrunt]() - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
 * ⭐ [Terraform-docs](https://terraform-docs.io/) Generate Terraform modules documentation in various formats
@@ -77,7 +77,14 @@
 
 ### Security analysis
 
+__dependency analysis__
 * [dependabot](https://dependabot.com/): Automated dependency updates
+
+
+### Testing
+
+__Chaos engineering__
+* [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
 
 
 ------------------------------------------------------------------------------------------
