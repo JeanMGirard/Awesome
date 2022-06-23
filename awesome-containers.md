@@ -2,15 +2,16 @@
 
 
 ---------------------------------------------------------------------------------------
-
 ## Tools
 
-### GUI tools
+<!-- =========================== -->
+### GUI
 
 * 🌟 [lens](https://k8slens.dev/)
 * [octant](https://octant.dev/)
 
-### CLI Tools
+<!-- =========================== -->
+### CLI
 
 #### Kubernetes  
 * [Kustomize]()
@@ -20,11 +21,30 @@
 * [ytt]()
 * [jsonnet]()
 
+<!-- =========================== -->
+### Others  
+* [OCP](https://gitlab.com/redhatdemocentral/ocp-install-demo)
+
 ------------------------------------------------------------------------------------------
 
-## Kubernetes 
+## Services 
 
-### Container platforms
+<!-- =========================== -->
+### Administration
 
+#### Multiclusters
 * 🌟 [Rancher]()
-* [OCP](https://gitlab.com/redhatdemocentral/ocp-install-demo)
+
+### Networking
+
+<!-- =========================== -->
+#### Ingress
+* [Nginx]()
+* []()
+
+
+#### Service discovery  
+* [Istio]()
+
+ <!-- =========================== -->
+
