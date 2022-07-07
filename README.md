@@ -32,6 +32,7 @@
 * https://github.com/veggiemonk/awesome-docker
 * https://github.com/sindresorhus/awesome-electron
 * https://github.com/sindresorhus/awesome-nodejs
+* https://github.com/rajasegar/awesome-codemods
 
 **Other lists**  
 * [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
