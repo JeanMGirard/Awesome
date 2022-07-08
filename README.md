@@ -21,6 +21,7 @@
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+* [awesome-devenv](https://github.com/jondot/awesome-devenv)
 
 <br/>
 
