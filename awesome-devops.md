@@ -1,20 +1,13 @@
 # Awesome DevOps
 
+* [Tools](#tools)
+* [Overview](#overview)
+  * [Flows & Philosophioes](#Flows & Philosophioes)
+  * [Frameworks](#Frameworks)
+* [Resources](#Resources)
+  * [Articles](#articles)
+  * [Tutorials](#tutorials)
 
-------------------------------------------------------------------------------------------
-## Overview
-
-### Frameworks
-
-* __Cloud Functions__ (FaaS)
-  * Serverless (js/python)
-  * OpenFaas
-* __Infrastructure as code__ (IaC)
-  * Terraform
-    * Terragrunt
-    * Terraspace
-  * AWS SAM
-  * CloudFormation
 
 ### Awesome lists
 * [terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
@@ -92,20 +85,74 @@ __dependency analysis__
 __Chaos engineering__
 * [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
 
+------------------------------------------------------------------------------------------
+## Overview
+
+
+### Flows & Philosophioes
+
+__Philosophioes__
+* GitOps
+
+
+__Automation__
+* Gitops
+
+
+
+
+### Frameworks
+
+__Cloud Functions__ (FaaS)
+* Serverless (js/python)
+* OpenFaas
+
+__Infrastructure as code__ (IaC)
+* Terraform
+  * Terragrunt
+  * Terraspace
+* AWS SAM
+* CloudFormation
 
 ------------------------------------------------------------------------------------------
-## Articles & Tutorials
 
-### Infras
+## Resources
+
+### Articles
+
+__Infras__
 * [Terragrunt — Inter-module dependency management](https://itnext.io/terragrunt-inter-module-dependency-management-36528693acdf)
 * [AWS Lambda the Terraform Way](https://github.com/nsriram/lambda-the-terraform-way)
-* [How to Manage AWS Lambda Functions with Terraform: Tutorial](https://spacelift.io/blog/terraform-aws-lambda)
-* [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
 
-### Teams and KPIs
+__Teams and KPIs__
 * [15 DevOps Metrics & Key Performance Indicators (KPIs) To Track](https://phoenixnap.com/blog/devops-metrics-kpis)
 * [devops-metrics-and-kpis](https://www.appdynamics.com/topics/devops-metrics-and-kpis#~8-devops-resources)
 
+
+### Tutorials
+* [How to Manage AWS Lambda Functions with Terraform: Tutorial](https://spacelift.io/blog/terraform-aws-lambda)
+* [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
+
+------------------------------------------------------------------------------------------
+
+# DRAFTS
+
+------------------------------------------------------------------------------------------
+
+### Other
+
+### Services
+
+* Azure DevOps
+* AWS DevOps
+
+### Templates
+
+__AWS CloudFormation__  
+* [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
+ 
+__Terraform__  
+* [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
 
 ------------------------------------------------------------------------------------------
 ## Metrics
@@ -128,24 +175,4 @@ __Chaos engineering__
 Time to Value
 Sprint Accuracy
 Flow Efficiency
-
-------------------------------------------------------------------------------------------
-
-## Resources
-
-### Services
-
-* Azure DevOps
-* AWS DevOps
-
-### Templates
-
-__AWS CloudFormation__  
-* [S3/cloudfront secure static site](https://github.com/aws-samples/amazon-cloudfront-secure-static-site)
- 
-__Terraform__  
-* [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
-
-
-
 
