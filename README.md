@@ -8,6 +8,7 @@
 * [APIs](./awesome-apis.md)
 * [Workspace](./awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
 * Languages
+  * [Go](./awesome-go.md)
   * Javascript
     * [Frontend](./awesome-frontend.md) Web components, React, etc...
     * [NodeJS](./awesome-nodejs.md)
