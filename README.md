@@ -2,14 +2,20 @@
 
 ## My lists
 
-* [Communities](./awesome-communities.md) - Channels, forums, organizations, etc...
-* [DevOps](./awesome-devops.md) Infrastructure as Code (IaC), GitOps
+__Languages__
+* [Go](./awesome-go.md)
+* [Javascript](./awesome-frontend.md) / [NodeJS](./awesome-nodejs.md)
+
+__Techs__
 * [Containers](./awesome-containers.md) - Docker, Kubernetes
+
+__Dev environments__
+* [Workspaces](./awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
+* [DevOps](./awesome-devops.md) Infrastructure as Code (IaC), GitOps
+ 
+__Resources__
+* [Communities](./awesome-communities.md) - Channels, forums, organizations, etc...
 * [APIs](./awesome-apis.md)
-* [Workspace](./awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
-* Languages
-  * [Go](./awesome-go.md)
-  * [Javascript](./awesome-frontend.md) / [NodeJS](./awesome-nodejs.md)
 
 
 
