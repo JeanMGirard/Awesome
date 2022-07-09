@@ -9,10 +9,12 @@ __Languages__
 __Techs__
 * [Containers](./awesome-containers.md) - Docker, Kubernetes
 
-__Dev environments__
+__Development__
 * [Workspaces](./awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
+* [Toolchain](./awesome-toolchains.md) Developer tools (terminal, etc...)
 * [DevOps](./awesome-devops.md) Infrastructure as Code (IaC), GitOps
- 
+* [Principles](./awesome-principles.md) Development concepts & principles
+
 __Resources__
 * [Communities](./awesome-communities.md) - Channels, forums, organizations, etc...
 * [APIs](./awesome-apis.md)
