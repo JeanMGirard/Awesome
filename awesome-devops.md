@@ -2,9 +2,9 @@
 
 * [Tools](#tools)
 * [Overview](#overview)
-  * [Flows & Philosophioes](#Flows & Philosophioes)
-  * [Frameworks](#Frameworks)
-* [Resources](#Resources)
+  * [Flows and philosophies](#flows-and-philosophies)
+  * [Frameworks](#frameworks)
+* [Resources](#resources)
   * [Articles](#articles)
   * [Tutorials](#tutorials)
 
@@ -89,7 +89,7 @@ __Chaos engineering__
 ## Overview
 
 
-### Flows & Philosophioes
+### Flows and philosophies
 
 __Philosophioes__
 * GitOps
