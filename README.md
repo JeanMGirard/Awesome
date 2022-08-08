@@ -26,9 +26,10 @@ __Resources__
 
 * [Awesome](https://github.com/sindresorhus/awesome) The one and only sindresorhus' list of awesome lists
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-* [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-* [awesome-devenv](https://github.com/jondot/awesome-devenv)
+* [selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+* [devenv](https://github.com/jondot/awesome-devenv)
+* [Helm](https://github.com/cdwv/awesome-helm)
 
 <br/>
 
@@ -54,7 +55,6 @@ __Resources__
 * https://github.com/aviaryan/awesome-no-login-web-apps
 * https://github.com/danvoyce/awesome-creative-tech-events
 * https://github.com/Level/awesome
-
 
 ## To add / Classify
 
