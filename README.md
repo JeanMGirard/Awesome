@@ -26,6 +26,7 @@ __Resources__
 
 * [Awesome](https://github.com/sindresorhus/awesome) The one and only sindresorhus' list of awesome lists
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [DevOps](http://awesome-devops.xyz/#awesome-devops)
 * [selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * [devenv](https://github.com/jondot/awesome-devenv)
