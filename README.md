@@ -32,6 +32,9 @@ __Resources__
 * [devenv](https://github.com/jondot/awesome-devenv)
 * [Helm](https://github.com/cdwv/awesome-helm)
 * [Scalability](https://github.com/binhnguyennus/awesome-scalability)
+* [Docker](https://github.com/veggiemonk/awesome-docker)
+* [security-hardening](https://github.com/decalage2/awesome-security-hardening)
+* [devsecops](https://github.com/devsecops/awesome-devsecops)
 
 <br/>
 
