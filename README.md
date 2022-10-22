@@ -31,6 +31,7 @@ __Resources__
 * [sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * [devenv](https://github.com/jondot/awesome-devenv)
 * [Helm](https://github.com/cdwv/awesome-helm)
+* [Scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 <br/>
 
@@ -67,6 +68,7 @@ https://github.com/mermaid-js/mermaid
 https://github.com/src-d/hercules
 https://github.com/badges/shields
 https://github.com/cycloidio/terracognita
+* [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 
 
