@@ -6,49 +6,40 @@
 ---------------------------------------------------------------------------------------
 ## Tools
 
-<!-- =========================== -->
-### GUI
+* [OCP](https://gitlab.com/redhatdemocentral/ocp-install-demo)
+
+### GUIs
 
 * 🌟 [lens](https://k8slens.dev/)
 * [octant](https://octant.dev/)
-* 
 
-<!-- =========================== -->
-### CLI
+### CLIs
 
-#### Kubernetes  
+**Kubernetes**  
 * [Kustomize]()
 * [Helm]()
 * [kubebox](https://github.com/astefanutti/kubebox)
 
-#### Templating  
+**Templating**
 * [ytt]()
 * [jsonnet]()
 
-<!-- =========================== -->
-### Others  
-* [OCP](https://gitlab.com/redhatdemocentral/ocp-install-demo)
-
 ------------------------------------------------------------------------------------------
+## Services & Charts
 
-## Services 
+* [KubeApps](https://github.com/vmware-tanzu/kubeapps)
 
-<!-- =========================== -->
 ### Administration
 
-#### Multi-clusters / Cross-providers
-* 🌟 [Rancher]()
+* 🌟 [Rancher]() Multi-clusters / Cross-providers
 
-
-<!-- =========================== -->
 ### Networking
 
-#### Ingress
+**Ingress**
 * [Nginx]()
 * [Traefik]()
 
-#### Service discovery  
+**Service discovery**  
 * [Istio]()
-
- <!-- =========================== -->
+------------------------------------------------------------------------------------------
 
