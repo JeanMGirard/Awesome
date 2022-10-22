@@ -14,43 +14,36 @@
 
 * [OCP](https://gitlab.com/redhatdemocentral/ocp-install-demo)
 
-### GUIs
-
-* 🌟 [lens](https://k8slens.dev/)
-* [octant](https://octant.dev/)
-
-### CLIs
-
-**Kubernetes**  
+### Kubernetes  
 * [Kustomize]()
 * [Helm]()
 * [kubebox](https://github.com/astefanutti/kubebox)
+* __GUIs__
+ * 🌟 [lens](https://k8slens.dev/)
+ * [octant](https://octant.dev/)
+* Minikube
+* __Kubectl plugins__ (krew)
+ * [kube-capacity](https://github.com/robscott/kube-capacity)
 
-**Templating**
-* [ytt]()
-* [jsonnet]()
 
-------------------------------------------------------------------------------------------
-## Services & Charts
-
-* [KubeApps](https://github.com/vmware-tanzu/kubeapps)
-
-### Administration
-
-* 🌟 [Rancher]() Multi-clusters / Cross-providers
-
-### Networking
-
-**Ingress**
-* [Nginx]()
-* [Traefik]()
-
-**Service discovery**  
-* [Istio]()
 ------------------------------------------------------------------------------------------
 ## Resources
 
-### Helm repositories
+* [KubeApps](https://github.com/vmware-tanzu/kubeapps)
+* 🌟 [Rancher]() Multi-clusters / Cross-providers
+
+__Ingresses__  
+* [Nginx]()
+* [Traefik]()
+
+__Service discovery__  
+* [Istio]()
+
+
+
+### Helm charts
+
+#### Helm repositories
 
 | Name        | Url                                       | About                           |
 | ----------- | ----------------------------------------- | ------------------------------- |
