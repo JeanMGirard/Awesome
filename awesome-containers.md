@@ -1,7 +1,13 @@
 # Awesome containers
 
-### Awesome lists
-* https://github.com/cdwv/awesome-helm
+## Recommendations
+
+* [Bitnami](https://github.com/orgs/bitnami/repositories): Major contributions (240+ Charts)
+* [vmware-tanzu](https://github.com/vmware-tanzu) Cloud native open source from VMware
+* **Awesome lists**
+  * [awesome-helm](https://github.com/cdwv/awesome-helm)
+
+
 
 ---------------------------------------------------------------------------------------
 ## Tools
@@ -42,4 +48,15 @@
 **Service discovery**  
 * [Istio]()
 ------------------------------------------------------------------------------------------
+## Resources
+
+### Helm repositories
+
+| Name        | Url                                       | About                           |
+| ----------- | ----------------------------------------- | ------------------------------- |
+| Bitnami     | https://charts.bitnami.com/bitnami        | 200+ charts                     |
+
+
+
+
 
