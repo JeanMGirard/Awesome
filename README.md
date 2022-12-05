@@ -35,6 +35,8 @@ __Resources__
 * [Docker](https://github.com/veggiemonk/awesome-docker)
 * [security-hardening](https://github.com/decalage2/awesome-security-hardening)
 * [devsecops](https://github.com/devsecops/awesome-devsecops)
+* [scalability](https://github.com/binhnguyennus/awesome-scalability)
+* [design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 <br/>
 
