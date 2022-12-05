@@ -37,6 +37,7 @@ __Resources__
 * [devsecops](https://github.com/devsecops/awesome-devsecops)
 * [scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [cto](https://github.com/kuchin/awesome-cto#people-management)
 
 <br/>
 
