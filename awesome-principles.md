@@ -1,21 +1,20 @@
 # Awesome principles
 
-* [Development](#development)
-  * [SOLID](#solid)
+- [Awesome principles](#awesome-principles)
+  - [Development](#development)
+    - [SOLID](#solid)
 
+---
 
-
--------------------------------------------------------------------------
 ## Development
 
 ### SOLID
 
-__S__ - Single-responsiblity Principle  
-__O__ - Open-closed Principle  
-__L__ - Liskov Substitution Principle  
-__I__ - Interface Segregation Principle  
-__D__ - Dependency Inversion Principle  
+**S** - Single-responsiblity Principle  
+**O** - Open-closed Principle  
+**L** - Liskov Substitution Principle  
+**I** - Interface Segregation Principle  
+**D** - Dependency Inversion Principle
 
--------------------------------------------------------------------------
-
+---
 

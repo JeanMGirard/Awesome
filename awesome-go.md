@@ -4,8 +4,11 @@
 
 ### Repo management
 
-__Releases mgmt__
-* goreleaser
+**Releases mgmt**
 
-__Dependency mgmt__
-* dep
+- goreleaser
+
+**Dependency mgmt**
+
+- dep
+

@@ -2,8 +2,7 @@
 
 ## Notes & documentation
 
-* [cheat]()
-
+- [cheat]()
 
 ## Developers
 
@@ -11,5 +10,6 @@
 
 ### System utilities
 
-* [Wait-for-port](https://github.com/bitnami/wait-for-port)
-* 
+- [Wait-for-port](https://github.com/bitnami/wait-for-port)
+-
+
