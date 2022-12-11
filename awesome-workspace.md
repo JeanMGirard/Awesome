@@ -5,23 +5,19 @@
 ---------------------------------------------------------------------------------------------------
 ## Frameworks & libraries
 
-### Code generators & Codemods
-* [plopjs](https://github.com/plopjs/plop)
-* [Hygen](/)
-* Yeoman
 
 
 
-### Workspaces
 
-* __Monorepos__
-  * [TurboRepo](https://turborepo.org/)
-  * [Nx](https://nx.dev/)
-  * [jhipster](https://www.jhipster.tech/installation/)
-  * [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
-  * [Lerna](/)
-* __CLI Tools__
-  * [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+### Monorepos
+
+* [TurboRepo](https://turborepo.org/)
+* [Nx](https://nx.dev/)
+* [jhipster](https://www.jhipster.tech/installation/)
+* [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
+* [Lerna](/)
+* [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+
 
 ### Versionning 
 * [Semantic release](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/installation.md#installation)
@@ -33,7 +29,31 @@
 ### Documentation
 * [Verb](https://github.com/verbose/verb/tree/dev): Verb is a documentation build system for GitHub projects powered by node.js. Verb has full support for gulp and assemble plugins and can be used to create documentation generators, themes, documentation websites and much more!
 
+### Generators & Codemods
 
+* [plopjs](https://github.com/plopjs/plop)
+* [Hygen](/)
+* Yeoman
+
+
+-----------------------------------------------------
+
+## Shell utilities
+
+
+#### utils
+
+* [cheat](https://github.com/alexanderepstein/Bash-Snippets/blob/master/cheat/cheat) cheatsheets lookup
+* [peco](./) Interactive grep
+* [jq](./) json parser
+* [ytt](./) yaml template engine
+* [jsonnet](./) json template engine
+
+
+#### snippets
+
+* [snipKit](https://lemoony.github.io/snipkit/v1.3.1/)
+* [pet](pet)
 
 -----------------------------------------------------
 ###### Other prospects  
