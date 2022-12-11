@@ -15,9 +15,6 @@
     - [Remote editors](#remote-editors)
           - [Other prospects](#other-prospects)
   - [Resources](#resources)
-  - [Definitions](#definitions)
-    - [Software development](#software-development)
-    - [Business process](#business-process)
 
 ---
 
@@ -94,39 +91,3 @@
 ## Resources
 
 - [Developer roadmaps](https://roadmap.sh/)
-
----
-
-## Definitions
-
-### Software development
-
-**Technical domains**
-
-- Infrastructure as code (IaC)
-- Continuous integration (CI)
-- Continuous delivery (CD)
-
-**Product categories**
-
-- Software as a service (SaaS)
-- Platform as a service (Paas)
-- Backend as a service (BaaS)
-- Function as a service (FaaS)
-- Internal developer platforms (IDPs)
-
-### Business process
-
-**Categories**
-
-- Total quality management (TQM)
-- Knowledge management (KM)
-
-**Documents**
-
-- Request for Comments (RFC)
-- Architecture Decision Record (ADR)
-- Business Requirements Document (BRD)
-
----
-

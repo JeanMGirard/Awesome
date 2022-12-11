@@ -4,24 +4,24 @@
 
 **Languages**
 
-- [Go](./awesome-go.md)
-- [Javascript](./awesome-frontend.md) / [NodeJS](./awesome-nodejs.md)
+- [Go](./docs/awesome-go.md)
+- [Javascript](./docs/awesome-frontend.md) / [NodeJS](./docs/awesome-nodejs.md)
 
 **Techs**
 
-- [Containers](./awesome-containers.md) - Docker, Kubernetes
+- [Containers](./docs/awesome-containers.md) - Docker, Kubernetes
 
 **Development**
 
-- [Workspaces](./awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
-- [Toolchain](./awesome-toolchains.md) Developer tools (terminal, etc...)
-- [DevOps](./awesome-devops.md) Infrastructure as Code (IaC), GitOps
-- [Principles](./awesome-principles.md) Development concepts & principles
+- [Workspaces](./docs/awesome-workspace.md) - dev environments (Monorepos, linters, etc...)
+- [Toolchain](./docs/awesome-toolchains.md) Developer tools (terminal, etc...)
+- [DevOps](./docs/awesome-devops.md) Infrastructure as Code (IaC), GitOps
+- [Principles](./docs/awesome-principles.md) Development concepts & principles
 
 **Resources**
 
-- [Communities](./awesome-communities.md) - Channels, forums, organizations, etc...
-- [APIs](./awesome-apis.md)
+- [Communities](./docs/awesome-communities.md) - Channels, forums, organizations, etc...
+- [APIs](./docs/awesome-apis.md)
 
 ## Other Awesome Lists
 
@@ -38,6 +38,8 @@
 - [devsecops](https://github.com/devsecops/awesome-devsecops)
 - [scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+- [awesome-python](https://github.com/vinta/awesome-python)
 
 * [cto](https://github.com/kuchin/awesome-cto#people-management)
 
@@ -66,6 +68,9 @@
 - <https://github.com/aviaryan/awesome-no-login-web-apps>
 - <https://github.com/danvoyce/awesome-creative-tech-events>
 - <https://github.com/Level/awesome>
+- <https://github.com/DmytroLitvinov/awesome-flake8-extensions>
+- <https://github.com/yoloseem/awesome-sphinxdoc>
+
 
 ## To add / Classify
 
@@ -79,4 +84,4 @@
 <https://github.com/cycloidio/terracognita>
 
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-
+[awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
