@@ -18,8 +18,6 @@
 
 ----------------------------------------------------------------------------------------
 
-## Frameworks & libraries
-
 ### Monorepos
 
 - [Nx](https://nx.dev/)
@@ -34,10 +32,15 @@
     - [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
 - **Python**
 
-#### Examples
+#### Example Monorepos
 
 - [example-bazel-monorepo](https://github.com/thundergolfer/example-bazel-monorepo)
 - [clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)
+- [colossus](https://github.com/lucperkins/colossus): An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
+
+----------------------------------------------------------------------------------------
+
+## Frameworks & libraries
 
 ### Versionning
 
