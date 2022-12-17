@@ -16,18 +16,28 @@
           - [Other prospects](#other-prospects)
   - [Resources](#resources)
 
----
+----------------------------------------------------------------------------------------
 
 ## Frameworks & libraries
 
 ### Monorepos
 
-- [TurboRepo](https://turborepo.org/)
 - [Nx](https://nx.dev/)
 - [jhipster](https://www.jhipster.tech/installation/)
-- [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
-- [Lerna](/)
-- [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+- [polylith](https://polylith.gitbook.io/polylith/)
+- [bazel](https://bazel.build/)
+- [pants](https://semaphoreci.com/blog/building-python-projects-with-pants)
+- **Node**
+    - [TurboRepo](https://turborepo.org/)
+    - [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
+    - [Lerna](/)
+    - [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+- **Python**
+
+#### Examples
+
+- [example-bazel-monorepo](https://github.com/thundergolfer/example-bazel-monorepo)
+- [clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)
 
 ### Versionning
 
@@ -50,7 +60,7 @@
 - [Hygen](/)
 - Yeoman
 
----
+----------------------------------------------------------------------------------------
 
 ## Shell utilities
 
@@ -65,7 +75,7 @@
 - [snipKit](https://lemoony.github.io/snipkit/v1.3.1/)
 - [pet](pet)
 
----
+----------------------------------------------------------------------------------------
 
 ## IDEs
 
@@ -80,13 +90,13 @@
 - [dev.containers]()
   - [templates](https://github.com/devcontainers/templates/tree/main/src)
 
----
+----------------------------------------------------------------------------------------
 
 ###### Other prospects
 
 - <https://octopus.com/>
 
----
+----------------------------------------------------------------------------------------
 
 ## Resources
 
