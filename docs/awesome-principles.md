@@ -17,6 +17,17 @@
 - **Simplicity**: functions have a single responsibility and don't mix nouns with verbs, which makes them fundamentally untangled.
 - **Stateless**: functions are just code; they don't contain state or instance.
 - **Purity**: functions can be pure (i.e. have no side-effects) which makes them easy to understand, reuse, test and parallelise.
+- **[SOLID](#solid)**
+- **DCI**
+- **DDD**
+- **SOA**
+- ***Architectures***
+    - [Hexagonal](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+
+
+
+(e.g. , Design Patterns, SOA, SOLID, Hexagon, etc.),
+
 
 **Technical domains**
 
