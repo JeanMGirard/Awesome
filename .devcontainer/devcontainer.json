@@ -3,8 +3,10 @@
 {
     "name": "Markdown Editing",
     "image": "mcr.microsoft.com/devcontainers/base:bullseye",
-    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    // "image": "mcr.microsoft.com/devcontainers/universal:2",
     "features": {
+        "ghcr.io/devcontainers/features/python:1": {},
+        "ghcr.io/devcontainers-contrib/features/poetry:1": {},
         "ghcr.io/devcontainers/features/common-utils:2": {},
         "ghcr.io/mpriscella/features/sops:1": {},
         "ghcr.io/eitsupi/devcontainer-features/go-task:1": {}
