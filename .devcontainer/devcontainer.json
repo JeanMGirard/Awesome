@@ -18,11 +18,12 @@
         "vscode": {
             // Add the IDs of extensions you want installed when the container is created.
             "extensions": [
-                "yzhang.markdown-all-in-one",
+                "donjayamanne.git-extension-pack",
+                "donjayamanne.python-extension-pack",
+                "bat67.markdown-extension-pack",
                 "streetsidesoftware.code-spell-checker",
-                "DavidAnson.vscode-markdownlint",
-                "shd101wyy.markdown-preview-enhanced",
-                "bierner.github-markdown-preview"
+                "poeticandroid.vscode-poetry",
+                "editorconfig.editorconfig"
             ]
         }
     }
