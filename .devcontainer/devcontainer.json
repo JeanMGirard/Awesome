@@ -21,6 +21,7 @@
                 "donjayamanne.git-extension-pack",
                 "donjayamanne.python-extension-pack",
                 "bat67.markdown-extension-pack",
+                "DavidAnson.vscode-markdownlint",
                 "streetsidesoftware.code-spell-checker",
                 "poeticandroid.vscode-poetry",
                 "editorconfig.editorconfig"
