@@ -29,13 +29,13 @@
 (e.g. , Design Patterns, SOA, SOLID, Hexagon, etc.),
 
 
-**Technical domains**
+### Technical domains
 
 - Infrastructure as code (IaC)
 - Continuous integration (CI)
 - Continuous delivery (CD)
 
-**Product categories**
+### Product categories
 
 - Software as a service (SaaS)
 - Platform as a service (Paas)
@@ -48,13 +48,12 @@
 - Total quality management (TQM)
 - Knowledge management (KM)
 
------------------------------------------------------------------------------------------
-
-## Documents
+### Documents And Analyses
 
 - Request for Comments (RFC)
 - Architecture Decision Record (ADR)
 - Business Requirements Document (BRD)
+- Value Stream Maps (VSMs)
 
 -----------------------------------------------------------------------------------------
 
