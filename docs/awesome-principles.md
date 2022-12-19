@@ -11,6 +11,9 @@
 
 ## Terms
 
+- Design Patterns
+
+
 ### Software development
 
 - **Encapsulation**: functions hide their implementation and only expose their signature.
@@ -21,12 +24,12 @@
 - **DCI**
 - **DDD**
 - **SOA**
-- ***Architectures***
-    - [Hexagonal](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
 
+### Architectures
+  - [Hexagonal](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
-(e.g. , Design Patterns, SOA, SOLID, Hexagon, etc.),
+
 
 
 ### Technical domains
