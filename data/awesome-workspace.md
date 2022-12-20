@@ -55,7 +55,7 @@
 - [Verb](https://github.com/verbose/verb/tree/dev): Verb is a documentation build system for GitHub projects powered by node.js. Verb has full support for gulp and assemble plugins and can be used to create documentation generators, themes, documentation websites and much more!
 - **IDE Plugins**
   - **Vs Code**
-    - [autodocstring](njpwerner.autodocstring)
+    - [autodocstring](awesome-lists/njpwerner.autodocstring)
 
 ### Generators & Codemods
 
@@ -68,15 +68,15 @@
 ## Shell utilities
 
 - [cheat](https://github.com/alexanderepstein/Bash-Snippets/blob/master/cheat/cheat) cheatsheets lookup
-- [peco](./) Interactive grep
-- [jq](./) json parser
-- [ytt](./) yaml template engine
-- [jsonnet](./) json template engine
+- [peco](./awesome-lists) Interactive grep
+- [jq](./awesome-lists) json parser
+- [ytt](./awesome-lists) yaml template engine
+- [jsonnet](./awesome-lists) json template engine
 
 ### snippets
 
 - [snipKit](https://lemoony.github.io/snipkit/v1.3.1/)
-- [pet](pet)
+- [pet](awesome-lists/pet)
 
 ----------------------------------------------------------------------------------------
 

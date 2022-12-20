@@ -18,7 +18,7 @@
 
 #### Vs Code
 
-- [autodocstring](njpwerner.autodocstring)
+- [autodocstring](awesome-lists/njpwerner.autodocstring)
 
 <!-- ----------------------------------------------------------------------- -->
 

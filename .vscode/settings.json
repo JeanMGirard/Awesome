@@ -1,3 +1,5 @@
 {
-    "git.allowForcePush": true
+    "git.allowForcePush": true,
+    "cSpell.words": [],
+    "doxide.openAI.apiKey": "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"
 }

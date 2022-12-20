@@ -7,5 +7,5 @@
 
 ## Other
 
-- [geoipupdate](maxmindinc/geoipupdate): GeoIP database synchronization
+- [geoipupdate](awesome-lists/maxmindinc/geoipupdate): GeoIP database synchronization
 
