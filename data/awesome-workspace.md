@@ -1,8 +1,9 @@
 # Awesome Workspace
 
 - [Awesome Workspace](#awesome-workspace)
+  - [Monorepos](#monorepos)
+    - [Example Monorepos](#example-monorepos)
   - [Frameworks \& libraries](#frameworks--libraries)
-    - [Monorepos](#monorepos)
     - [Versionning](#versionning)
     - [Linting](#linting)
     - [Documentation](#documentation)
@@ -26,10 +27,10 @@
 - [bazel](https://bazel.build/)
 - [pants](https://semaphoreci.com/blog/building-python-projects-with-pants)
 - **Node**
-    - [TurboRepo](https://turborepo.org/)
-    - [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
-    - [Lerna](/)
-    - [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+  - [TurboRepo](https://turborepo.org/)
+  - [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
+  - [Lerna](/)
+  - [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
 - **Python**
 
 #### Example Monorepos

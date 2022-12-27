@@ -4,6 +4,9 @@
 
 
 .idea/*
+dist/
+megalinter-reports/
+.pytest_cache/
 
 ### VisualStudioCode ###
 .vscode/*

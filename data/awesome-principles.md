@@ -1,11 +1,15 @@
 # Awesome principles
 
 - [Awesome principles](#awesome-principles)
-  - [Development](#development)
-    - [SOLID](#solid)
-  - [Definitions](#definitions)
+  - [Terms](#terms)
     - [Software development](#software-development)
-    - [Business process](#business-process)
+    - [Architectures](#architectures)
+    - [Technical domains](#technical-domains)
+    - [Product categories](#product-categories)
+    - [Business processes](#business-processes)
+    - [Documents And Analyses](#documents-and-analyses)
+  - [Définitions](#définitions)
+    - [SOLID](#solid)
 
 -----------------------------------------------------------------------------------------
 
@@ -27,7 +31,8 @@
 
 
 ### Architectures
-  - [Hexagonal](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
+
+- [Hexagonal](https://en.wikipedia.org/wiki/Hexagonal_architecture_(software))
 
 
 
