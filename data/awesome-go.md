@@ -1,14 +1,8 @@
 # Awesome Go
 
-## Packages
+## Command lines
 
-### Repo management
-
-**Releases mgmt**
-
-- goreleaser
-
-**Dependency mgmt**
-
-- dep
+* [go-gh](https://github.com/cli/go-gh)
+* goreleaser
+* dep
 
