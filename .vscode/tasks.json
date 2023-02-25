@@ -35,10 +35,11 @@
             "label": "Shell",
             "command": "poetry shell",
             "isBackground": true,
-            "type": "shell"
+            "type": "shell",
+            "dependsOn": ["Setup"]
         },
         {
-            "label": "Install",
+            "label": "Setup",
             "command": "poetry run -- poetry install"
         },
         {
@@ -47,11 +48,12 @@
             "isBackground": true,
             "runOptions": {
                 "runOn": "folderOpen"
-            }
+            },
+            "dependsOn": ["Setup"]
         },
         {
             "label": "Build",
-            "dependsOn": ["Install"]
+            "dependsOn": ["Setup"]
         }
     ]
 }

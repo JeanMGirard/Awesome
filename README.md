@@ -5,17 +5,15 @@
 
 # Awesome  
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+<!-- [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) -->
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 ---
 
 <p> Few lines describing your project.<br></p>
 </div>
-
-
 
 
 ## My lists
@@ -62,6 +60,9 @@
 
 * [cto](https://github.com/kuchin/awesome-cto#people-management)
 
+
+
+
 <br/>
 
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
@@ -104,6 +105,13 @@
 
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
+
+
+
+
+
+
+<!-- 
 
 
 ## 📝 Table of Contents
@@ -198,3 +206,7 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
+
+
+
+-->
