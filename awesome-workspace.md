@@ -38,6 +38,7 @@
 - [example-bazel-monorepo](https://github.com/thundergolfer/example-bazel-monorepo)
 - [clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)
 - [colossus](https://github.com/lucperkins/colossus): An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
+- [megabyte-labs](https://gitlab.com/megabyte-labs) Various awesome monorepos
 
 ----------------------------------------------------------------------------------------
 
