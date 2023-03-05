@@ -5,37 +5,18 @@
     "image": "mcr.microsoft.com/devcontainers/base:bullseye",
     // "image": "mcr.microsoft.com/devcontainers/universal:2",
     "features": {
-        "ghcr.io/devcontainers/features/python:1": {},
-        "ghcr.io/devcontainers-contrib/features/poetry:1": {},
         "ghcr.io/devcontainers/features/common-utils:2": {},
-        "ghcr.io/mpriscella/features/sops:1": {},
-        "ghcr.io/eitsupi/devcontainer-features/go-task:1": {}
+        "ghcr.io/devcontainers/features/python:1": {}
     },
-  
-    // Configure tool-specific properties.
     "customizations": {
-        // Configure properties specific to VS Code.
         "vscode": {
-            // Add the IDs of extensions you want installed when the container is created.
             "extensions": [
-				"donjayamanne.git-extension-pack",
-				"donjayamanne.python-extension-pack",
-				"bat67.markdown-extension-pack",
-				"DavidAnson.vscode-markdownlint",
-				"streetsidesoftware.code-spell-checker",
-				"poeticandroid.vscode-poetry",
-				"editorconfig.editorconfig",
-				"zeshuaro.vscode-python-poetry"
-			]
+                "yzhang.markdown-all-in-one",
+		"DavidAnson.vscode-markdownlint",
+		"editorconfig.editorconfig",
+		"poeticandroid.vscode-poetry",
+                "aaron-bond.better-comments"
+	    ]
         }
     }
-    
-      // Use 'forwardPorts' to make a list of ports inside the container available locally.
-    // "forwardPorts": [],
-
-    // Use 'postCreateCommand' to run commands after the container is created.
-    // "postCreateCommand": "uname -a",
-
-    // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-    // "remoteUser": "root"
 }
