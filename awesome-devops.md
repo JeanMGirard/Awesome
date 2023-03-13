@@ -136,7 +136,7 @@
 
 ### Tutorials
 
-* [learn devops](https://github.com/codeaprendiz/learn-devops): Short tutorials about most DevOps Essentials
+* 🌟 [learn devops](https://github.com/codeaprendiz/learn-devops): Short tutorials about most DevOps Essentials
 * [How to Manage AWS Lambda Functions with Terraform: Tutorial](https://spacelift.io/blog/terraform-aws-lambda)
 * [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
 
