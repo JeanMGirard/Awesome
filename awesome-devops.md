@@ -122,12 +122,15 @@
 
 ## Resources
 
+- 🌟 [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
+
 ### Articles
 
 **Infras**
 
 - [Terragrunt — Inter-module dependency management](https://itnext.io/terragrunt-inter-module-dependency-management-36528693acdf)
 - [AWS Lambda the Terraform Way](https://github.com/nsriram/lambda-the-terraform-way)
+- [Terragrunt/Terraform with Atlantis to Automate your Infrastructure Pull Requests](https://medium.com/@unruly_mood/terragrunt-terraform-with-atlantis-to-automate-your-infrastructure-pull-requests-9832dd24e5bf)
 
 **Teams and KPIs**
 
@@ -161,7 +164,6 @@
 
 **Terraform**
 
-- [cloudposse](https://github.com/cloudposse) Hundreds of well designed exemples for terraform
 
 ---
 
