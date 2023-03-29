@@ -64,3 +64,13 @@
   * [docopt](http://docopt.org/) - Pythonic command line arguments parser.
   * [python-fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
   * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
+  
+  
+## Other Awesome Python Lists
+
+* [crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python)
+* [awesome-python-environment](https://github.com/ryo-ma/awesome-python-environment)
+* [awesome-python)](https://github.com/vinta/awesome-python)
+
+
+
