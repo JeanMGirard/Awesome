@@ -81,6 +81,8 @@
 
 ## Testing
 
+
+
 ### Test Driven Development (TDD)
 
 #### Unit Testing
@@ -89,13 +91,21 @@
 
 #### E2E Testing
 
+
+
+
 ### Behavior Driven Development (BDD)
 
-#### Static Analysis
+
+
+### Static Analysis
 
 #### Dependency analysis
 
 - [dependabot](https://dependabot.com/): Automated dependency updates
+
+
+
 
 ### Other
 
@@ -103,11 +113,14 @@
 
 - [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
 
+
+
 ----------------------------------------------------------------------------------------
 
 ## CICD
 
 - <https://octopus.com/>
+
 
 
 ### Platforms
@@ -124,6 +137,8 @@
 
 - [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
 - [release-cli](https://gitlab.com/gitlab-org/release-cli)create release objects in GitLab
+
+
 
 
 ----------------------------------------------------------------------------------------
