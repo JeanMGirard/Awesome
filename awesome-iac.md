@@ -11,6 +11,7 @@
 
 ### Testing
 
+- :star2: [OPA](https://www.openpolicyagent.org) 
 - [kitchen](https://kitchen.ci/)
     - [Kitchen-Terraform](https://github.com/newcontext-oss/kitchen-terraform) Kitchen-Terraform provides a set of Test Kitchen plugins which enable the use of Test Kitchen to converge a Terraform configuration and verify the resulting infrastructure systems with InSpec controls.
 - [rspec](https://rspec.info/)
@@ -56,6 +57,7 @@
     - [Kitchen-Terraform](https://github.com/newcontext-oss/kitchen-terraform) Kitchen-Terraform provides a set of Test Kitchen plugins which enable the use of Test Kitchen to converge a Terraform configuration and verify the resulting infrastructure systems with InSpec controls.
 - [rspec](https://rspec.info/)
     - [rspec-terraform)](https://github.com/bsnape/rspec-terraform)
+- :star2: [OPA Terraform](https://www.openpolicyagent.org/docs/latest/terraform/) 
 
 #### Documentation & Analysis
 
