@@ -40,28 +40,19 @@
 
 ## Tools
 
-- [pre-commit](https://pre-commit.com/) A framework for managing and maintaining multi-language pre-commit hooks.
-- [cheat](https://github.com/alexanderepstein/Bash-Snippets/blob/master/cheat/cheat) cheatsheets lookup
-- [peco](./awesome-lists) Interactive grep
-- [jq](./awesome-lists) json parser
-- [ytt](./awesome-lists) yaml template engine
-- [jsonnet](./awesome-lists) json template engine
-
-__(Snippets)__ <br/>
-- [snipKit](https://lemoony.github.io/snipkit/v1.3.1/)
-- [pet](awesome-lists/pet)
-
-### Versionning
+### Version
 
 - [Semantic release](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/installation.md#installation)
 
-### Templating
+### Generators & Template Engines
 
 - [jsonnet](https://jsonnet.org/) json templating engine (support for many formats available)
 - [ytt](https://carvel.dev/ytt) yaml templating engine
+- [plopjs](https://github.com/plopjs/plop)
+- [Hygen](/)
+- Yeoman
 
-
-### Linting
+### Linters
 
 - [Emmet](https://github.com/emmetio/emmet#readme): Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing.
 
@@ -69,23 +60,48 @@ __(Snippets)__ <br/>
 
 - [Verb](https://github.com/verbose/verb/tree/dev): Verb is a documentation build system for GitHub projects powered by node.js. Verb has full support for gulp and assemble plugins and can be used to create documentation generators, themes, documentation websites and much more!
 
-### Generators & Codemods
+### Testing
 
-- [plopjs](https://github.com/plopjs/plop)
-- [Hygen](/)
-- Yeoman
+- [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
+- [dependabot](https://dependabot.com/): Automated dependency updates
+
+
+### Others
+
+- [pre-commit](https://pre-commit.com/) A framework for managing and maintaining multi-language pre-commit hooks.
+- [cheat](https://github.com/alexanderepstein/Bash-Snippets/blob/master/cheat/cheat) cheatsheets lookup
+- [peco](./awesome-lists) Interactive grep
+- [jq](./awesome-lists) json parser
+- [jsonnet](./awesome-lists) json template engine
+- [snipKit](https://lemoony.github.io/snipkit/v1.3.1/)
+- [pet](awesome-lists/pet)
+
 
 ----------------------------------------------------------------------------------------
 
 ## Testing
 
-### Chaos engineering
+### Test Driven Development (TDD)
 
-- [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
+#### Unit Testing
 
-### Dependency analysis
+#### Implementation Testing
+
+#### E2E Testing
+
+### Behavior Driven Development (BDD)
+
+#### Static Analysis
+
+#### Dependency analysis
 
 - [dependabot](https://dependabot.com/): Automated dependency updates
+
+### Other
+
+#### Chaos engineering
+
+- [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
 
 ----------------------------------------------------------------------------------------
 
@@ -137,6 +153,7 @@ Build systems and other monorepository tools
 - [colossus](https://github.com/lucperkins/colossus): An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
 - [megabyte-labs](https://gitlab.com/megabyte-labs) Various awesome monorepos
 
+
 ----------------------------------------------------------------------------------------
 
 ## IDEs
@@ -147,9 +164,7 @@ Build systems and other monorepository tools
 
 - [autodocstring](awesome-lists/njpwerner.autodocstring)
 
-
 ### Jetbrain
-
 
 ### Remote editors
 
@@ -194,11 +209,6 @@ Time to Value
 Sprint Accuracy
 Flow Efficiency
 
-### Internal developer platforms (IDPs)
-
-- [backstage.io]() open platform for building developer portals
-- [portainer]() centralized service delivery platform for containerized apps
-
 ### Articles & Tutorials
 
 - [15 DevOps Metrics & Key Performance Indicators (KPIs) To Track](https://phoenixnap.com/blog/devops-metrics-kpis)
@@ -221,7 +231,10 @@ Flow Efficiency
 
 ## Concepts
 
+
 ### Workflows
+
+- [Agile](#agile)
 
 #### Agile
 
@@ -229,7 +242,11 @@ Flow Efficiency
 
 #### DevOps
 
-### Architectures
+
+### Software Architecture
+
+
+### Infrastructures
 
 #### Cloud Functions (FaaS)
 
@@ -243,3 +260,31 @@ Flow Efficiency
   - Terraspace
 - AWS SAM
 - CloudFormation
+
+----------------------------------------------------------------------------------------
+
+## Developer Experience
+
+- Source of truth
+- Toolchain
+
+### Code Quality
+
+### Internal developer platforms (IDPs)
+
+- [backstage.io]() open platform for building developer portals
+- [portainer]() centralized service delivery platform for containerized apps
+
+
+### Toolchain
+
+#### Scaffolding
+
+- [plopjs](https://github.com/plopjs/plop)
+- [Hygen](/)
+- Yeoman
+
+----------------------------------------------------------------------------------------
+
+
+
