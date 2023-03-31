@@ -17,6 +17,7 @@
     - [rspec-terraform)](https://github.com/bsnape/rspec-terraform)
 - [InSpec](https://github.com/inspec/inspec) Chef InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
 - [Goss](https://github.com/goss-org/goss) Goss is a YAML based serverspec alternative tool for validating a server’s configuration. It eases the process of writing tests by allowing the user to generate tests from the current system state. Once the test suite is written they can be executed, waited-on, or served as a health endpoint.
+- [driftctl](https://driftctl.com/) driftctl is a free and open-source CLI that warns of infrastructure drift and fills in the missing piece in your DevSecOps toolbox.
 
 ------------------------------------------------------------------------------------------------------
 
