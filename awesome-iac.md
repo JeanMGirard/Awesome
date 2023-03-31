@@ -18,6 +18,16 @@
 - [InSpec](https://github.com/inspec/inspec) Chef InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
 - [Goss](https://github.com/goss-org/goss) Goss is a YAML based serverspec alternative tool for validating a server’s configuration. It eases the process of writing tests by allowing the user to generate tests from the current system state. Once the test suite is written they can be executed, waited-on, or served as a health endpoint.
 - [driftctl](https://driftctl.com/) driftctl is a free and open-source CLI that warns of infrastructure drift and fills in the missing piece in your DevSecOps toolbox.
+- [snyk-iac](https://docs.snyk.io/scan-cloud-deployment/snyk-infrastructure-as-code/getting-started-snyk-iac)
+
+### Articles
+
+- [Test-Driven Development for Infrastructure](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
+- [Moving Security and Sanity Left by Testing Terraform with InSpec](https://www.hashicorp.com/resources/moving-security-and-sanity-left-by-testing-terraform-with-inspec)
+- [Terraform Code Reviews: Supercharged with Conftest](https://www.hashicorp.com/resources/terraform-code-reviews-supercharged-with-conftest)
+- [Testing Infrastructure as Code on Localhost](https://www.hashicorp.com/resources/testing-infrastructure-as-code-on-localhost)
+- [Developing Terraform Modules at Scale](https://www.slideshare.net/TomStraub5/developing-terraform-modules-at-scale-hashitalks-2021)
+- [Testing your HCL Modules](https://www.hashicorp.com/resources/testing-your-hcl-modules-in-terraform)
 
 ------------------------------------------------------------------------------------------------------
 
