@@ -38,23 +38,6 @@
 
 ----------------------------------------------------------------------------------------
 
-## Platforms
-
-### Azure DevOps
-
-### AWS DevOps
-
-### Github
-
-- [Github CLI](https://cli.github.com/)
-
-### Gitlab
-
-- [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
-- [release-cli](https://gitlab.com/gitlab-org/release-cli)create release objects in GitLab
-
-----------------------------------------------------------------------------------------
-
 ## Tools
 
 - [pre-commit](https://pre-commit.com/) A framework for managing and maintaining multi-language pre-commit hooks.
@@ -110,6 +93,21 @@ __(Snippets)__ <br/>
 
 - <https://octopus.com/>
 
+
+### Platforms
+
+#### Azure DevOps
+
+#### AWS DevOps
+
+#### Github
+
+- [Github CLI](https://cli.github.com/)
+
+#### Gitlab
+
+- [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
+- [release-cli](https://gitlab.com/gitlab-org/release-cli)create release objects in GitLab
 
 
 ----------------------------------------------------------------------------------------
