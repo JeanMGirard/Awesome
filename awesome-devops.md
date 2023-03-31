@@ -194,6 +194,10 @@ Time to Value
 Sprint Accuracy
 Flow Efficiency
 
+### Internal developer platforms (IDPs)
+
+- [backstage.io]() open platform for building developer portals
+- [portainer]() centralized service delivery platform for containerized apps
 
 ### Articles & Tutorials
 
@@ -212,12 +216,6 @@ Flow Efficiency
 * [How to Manage AWS Lambda Functions with Terraform: Tutorial](https://spacelift.io/blog/terraform-aws-lambda)
 * [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
 
-----------------------------------------------------------------------------------------
-
-## Internal developer platforms (IDPs)
-
-- [backstage.io]() open platform for building developer portals
-- [portainer]() centralized service delivery platform for containerized apps
 
 ----------------------------------------------------------------------------------------
 
