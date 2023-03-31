@@ -7,39 +7,162 @@
 - [Resources](#resources)
   - [Articles](#articles)
   - [Tutorials](#tutorials)
+- [Workspaces](#awesome-workspace)
+  - [Monorepos](#monorepos)
+    - [Example Monorepos](#example-monorepos)
+  - [Frameworks \& libraries](#frameworks--libraries)
+    - [Versionning](#versionning)
+    - [Linting](#linting)
+    - [Documentation](#documentation)
+    - [Generators \& Codemods](#generators--codemods)
+  - [Shell utilities](#shell-utilities)
+    - [snippets](#snippets)
+  - [IDEs](#ides)
+    - [Vs Code](#vs-code)
+    - [Jetbrain](#jetbrain)
+    - [Remote editors](#remote-editors)
+          - [Other prospects](#other-prospects)
+  - [Resources](#resources)
+
+----------------------------------------------------------------------------------------
+
+## Resources
 
 ### Awesome lists
 
 - [terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
 
----
+### Roadmaps
+
+- [Developer Roadmaps](https://roadmap.sh/)
+
+----------------------------------------------------------------------------------------
+
+## Platforms
+
+### Azure DevOps
+
+### AWS DevOps
+
+### Github
+
+- [Github CLI](https://cli.github.com/)
+
+### Gitlab
+
+- [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
+- [release-cli](https://gitlab.com/gitlab-org/release-cli)create release objects in GitLab
+
+----------------------------------------------------------------------------------------
 
 ## Tools
 
-### Repository Tools
-
-**Git**
-
-- [Github CLI](https://cli.github.com/)
-- Gitlab
-  - [GLab](https://github.com/profclems/glab) Gitlab CLI inspired by gh
-  - [release-cli](https://gitlab.com/gitlab-org/release-cli)create release objects in GitLab
 - [pre-commit](https://pre-commit.com/) A framework for managing and maintaining multi-language pre-commit hooks.
+- [cheat](https://github.com/alexanderepstein/Bash-Snippets/blob/master/cheat/cheat) cheatsheets lookup
+- [peco](./awesome-lists) Interactive grep
+- [jq](./awesome-lists) json parser
+- [ytt](./awesome-lists) yaml template engine
+- [jsonnet](./awesome-lists) json template engine
+
+__(Snippets)__ <br/>
+- [snipKit](https://lemoony.github.io/snipkit/v1.3.1/)
+- [pet](awesome-lists/pet)
+
+### Versionning
+
+- [Semantic release](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/installation.md#installation)
+
+### Templating
+
+- [jsonnet](https://jsonnet.org/) json templating engine (support for many formats available)
+- [ytt](https://carvel.dev/ytt) yaml templating engine
 
 
-### Monorepo & Build systems
+### Linting
 
-- [Bazel]()
-- [TurboRepo](https://turborepo.org/)
+- [Emmet](https://github.com/emmetio/emmet#readme): Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing.
+
+### Documentation
+
+- [Verb](https://github.com/verbose/verb/tree/dev): Verb is a documentation build system for GitHub projects powered by node.js. Verb has full support for gulp and assemble plugins and can be used to create documentation generators, themes, documentation websites and much more!
+
+### Generators & Codemods
+
+- [plopjs](https://github.com/plopjs/plop)
+- [Hygen](/)
+- Yeoman
+
+----------------------------------------------------------------------------------------
+
+## Testing
+
+### Chaos engineering
+
+- [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
+
+### Dependency analysis
+
+- [dependabot](https://dependabot.com/): Automated dependency updates
+
+----------------------------------------------------------------------------------------
+
+## CICD
+
+- <https://octopus.com/>
+
+
+
+----------------------------------------------------------------------------------------
+
+## Workspaces
+
+### Monorepos 
+
+Build systems and other monorepository tools
+
 - [Nx](https://nx.dev/)
 - [jhipster](https://www.jhipster.tech/installation/)
-- [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
-- [Lerna](/)
+- [polylith](https://polylith.gitbook.io/polylith/)
+- [bazel](https://bazel.build/)
+- [pants](https://semaphoreci.com/blog/building-python-projects-with-pants)
+- **Node**
+  - [TurboRepo](https://turborepo.org/)
+  - [RushJS](https://rushjs.io/) Scalable monorepo manager for the web
+  - [Lerna](/)
+  - [syncpack](https://github.com/JamieMason/syncpack) Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces
+- **Python**
 
-### Internal developer platforms (IDPs)
+#### Monorepo Examples
 
-- [backstage.io]() open platform for building developer portals
-- [portainer]() centralized service delivery platform for containerized apps
+- [example-bazel-monorepo](https://github.com/thundergolfer/example-bazel-monorepo)
+- [clojure-polylith-realworld-example-app](https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app)
+- [colossus](https://github.com/lucperkins/colossus): An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more
+- [megabyte-labs](https://gitlab.com/megabyte-labs) Various awesome monorepos
+
+----------------------------------------------------------------------------------------
+
+## IDEs
+
+### Vs Code
+
+#### Plugins
+
+- [autodocstring](awesome-lists/njpwerner.autodocstring)
+
+
+### Jetbrain
+
+
+### Remote editors
+
+- [Gitpod]()
+- [Github codespace]()
+- [dev.containers]()
+  - [templates](https://github.com/devcontainers/templates/tree/main/src)
+
+----------------------------------------------------------------------------------------
+
+## Teams and KPIs
 
 ### Software development analytics
 
@@ -52,85 +175,7 @@
 - [git-quick-stats](https://github.com/arzzen/git-quick-stats) a simple and efficient way to access various statistics in a git repository.
 - [git-hammer](https://github.com/asharov/git-hammer) Git Hammer is a statistics tool for projects in git repositories.
 
-### Template & refactoring tools
-
-- [jsonnet](https://jsonnet.org/) json templating engine (support for many formats available)
-- [ytt](https://carvel.dev/ytt) yaml templating engine
-
-### Static analysis
-
-**dependency analysis**
-
-- [dependabot](https://dependabot.com/): Automated dependency updates
-
-### Testing
-
-**Chaos engineering**
-
-- [chaos toolkit](https://chaostoolkit.org/) The Chaos Engineering toolkit for Developers
-
----
-
-## Overview
-
-### Flows and philosophies
-
-**Philosophioes**
-
-- GitOps
-
-**Automation**
-
-- Gitops
-
-### Frameworks
-
-**Cloud Functions** (FaaS)
-
-- Serverless (js/python)
-- OpenFaas
-
-**Infrastructure as code** (IaC)
-
-- Terraform
-  - Terragrunt
-  - Terraspace
-- AWS SAM
-- CloudFormation
-
----
-
-## Resources
-
-### Articles
-
-**Teams and KPIs**
-
-- [15 DevOps Metrics & Key Performance Indicators (KPIs) To Track](https://phoenixnap.com/blog/devops-metrics-kpis)
-- [devops-metrics-and-kpis](https://www.appdynamics.com/topics/devops-metrics-and-kpis#~8-devops-resources)
-
-### Tutorials
-
-* 🌟 [learn devops](https://github.com/codeaprendiz/learn-devops): Short tutorials about most DevOps Essentials
-* [How to Manage AWS Lambda Functions with Terraform: Tutorial](https://spacelift.io/blog/terraform-aws-lambda)
-* [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
-
----
-
-# DRAFTS
-
----
-
-### Other
-
-### Services
-
-- Azure DevOps
-- AWS DevOps
-
----
-
-## Metrics
+### Metrics
 
 - [Lead Time]() Lead time measures how long it takes for a change to occur. <br/> Measuring the average time it takes for a concept to go from an idea to implementation is an effective metric for evaluating workflow and productivity. Reduced lead times indicate that your DevOps team is adaptive, productive, and capable of addressing feedback promptly.
 - [Deployment Frequency]() Deployment frequency denotes how often new features or capabilities are launched. Frequency can be measured on a daily or weekly basis. Many organizations prefer to track deployments daily, especially as they improve efficiency.
@@ -151,3 +196,54 @@ Time to Value
 Sprint Accuracy
 Flow Efficiency
 
+
+### Articles & Tutorials
+
+- [15 DevOps Metrics & Key Performance Indicators (KPIs) To Track](https://phoenixnap.com/blog/devops-metrics-kpis)
+- [devops-metrics-and-kpis](https://www.appdynamics.com/topics/devops-metrics-and-kpis#~8-devops-resources)
+- 🌟 [learn devops](https://github.com/codeaprendiz/learn-devops): Short tutorials about most DevOps Essentials
+
+----------------------------------------------------------------------------------------
+
+## Infrastucture as code
+
+**Moved to [Awesome-IaC](./awesome-iac.md)
+
+### Tutorials
+
+* [How to Manage AWS Lambda Functions with Terraform: Tutorial](https://spacelift.io/blog/terraform-aws-lambda)
+* [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2)
+
+----------------------------------------------------------------------------------------
+
+## Internal developer platforms (IDPs)
+
+- [backstage.io]() open platform for building developer portals
+- [portainer]() centralized service delivery platform for containerized apps
+
+----------------------------------------------------------------------------------------
+
+## Concepts
+
+### Workflows
+
+#### Agile
+
+#### GitOps
+
+#### DevOps
+
+### Architectures
+
+#### Cloud Functions (FaaS)
+
+- Serverless (js/python)
+- OpenFaas
+
+#### Infrastructure as code (IaC)
+
+- Terraform
+  - Terragrunt
+  - Terraspace
+- AWS SAM
+- CloudFormation
