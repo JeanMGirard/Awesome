@@ -92,27 +92,27 @@
 
 <br/>
 
-- <https://github.com/enaqx/awesome-react>
-- <https://github.com/sindresorhus/awesome-nodejs>
-- <https://github.com/korfuri/awesome-monorepo>
-- <https://github.com/avelino/awesome-go>
-- <https://github.com/rehooks/awesome-react-hooks>
-- <https://github.com/chentsulin/awesome-graphql>
-- <https://github.com/quozd/awesome-dotnet>
-- <https://github.com/docker/awesome-compose>
-- <https://github.com/veggiemonk/awesome-docker>
-- <https://github.com/sindresorhus/awesome-electron>
-- <https://github.com/sindresorhus/awesome-nodejs>
-- <https://github.com/rajasegar/awesome-codemods>
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-monorepo](https://github.com/korfuri/awesome-monorepo)
+- [awesome-go](https://github.com/avelino/awesome-go)
+- [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+- [awesome-graphql](https://github.com/chentsulin/awesome-graphql)
+- [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+- [awesome-compose](https://github.com/docker/awesome-compose)
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker)
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron)
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-codemods](https://github.com/rajasegar/awesome-codemods)
 
 **Other lists**
 
 - [awesome-styled-components](https://github.com/styled-components/awesome-styled-components)
-- <https://github.com/aviaryan/awesome-no-login-web-apps>
-- <https://github.com/danvoyce/awesome-creative-tech-events>
-- <https://github.com/Level/awesome>
-- <https://github.com/DmytroLitvinov/awesome-flake8-extensions>
-- <https://github.com/yoloseem/awesome-sphinxdoc>
+- [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+- [awesome-creative-tech-events](https://github.com/danvoyce/awesome-creative-tech-events)
+- [awesome](https://github.com/Level/awesome)
+- [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+- [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 
 
 ## To add / Classify
