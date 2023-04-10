@@ -1,19 +1,41 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=287333766)
-
-
 <div align="center">
 
 # Awesome  
 
-<!-- [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+
+<p> My Collection of Awesome Lists<br></p>
+
+<!--    
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) -->
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) 
+-->
+
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Open in GitHub Codespaces](https://img.shields.io/badge/open-Codespace-black.svg?color=black&labelColor=black&label=Open-in)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=287333766)
 
----
+------------------------------------------------------------------
 
-<p> Few lines describing your project.<br></p>
+
+<p align="center">
+	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/sindresorhus/awesome/blob/main/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
+</p>
 </div>
+
+
+
+<br>
+
+<div align="center">
+	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+</div>
+
+<br>
+
 
 
 ## My lists
@@ -57,11 +79,12 @@
 - [design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 - [awesome-python](https://github.com/vinta/awesome-python)
-
-* [cto](https://github.com/kuchin/awesome-cto#people-management)
-
+- [awesome-shell](https://awesome-shell.readthedocs.io/en/latest/README/)
 
 
+### Other Noticable Lists
+
+- [cto](https://github.com/kuchin/awesome-cto#people-management)
 
 <br/>
 
