@@ -80,7 +80,7 @@
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [awesome-shell](https://awesome-shell.readthedocs.io/en/latest/README/)
-
+- [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
 
 ### Other Noticable Lists
 
