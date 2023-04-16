@@ -110,13 +110,9 @@
 
 #### Chaos engineering
 
-- [chaos toolkit](https://chaostoolkit.org/): The Chaos Engineering toolkit for Developers
-- AAWS Fault Injection Simulator: inject failures in AWS resources
-- Azure Chaos Studio: inject failures in Azure resources
-- Chaos Monkey: one of the most famous tools to orchestrate Chaos on diverse Cloud providers
-- Litmus - A Framework for Kubernetes
-- Chaos Mesh: for Cloud Kubernetes platforms
+Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.
 
+- [the Principles of chaos engineering](http://principlesofchaos.org/)
 
 
 ----------------------------------------------------------------------------------------
