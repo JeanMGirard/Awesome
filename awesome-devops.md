@@ -69,11 +69,11 @@
 
 #### Chaos Engineering  
 - [chaos toolkit](https://chaostoolkit.org/): The Chaos Engineering toolkit for Developers
-- AAWS Fault Injection Simulator: inject failures in AWS resources
-- Azure Chaos Studio: inject failures in Azure resources
-- Chaos Monkey: one of the most famous tools to orchestrate Chaos on diverse Cloud providers
-- Litmus - A Framework for Kubernetes
-- Chaos Mesh: for Cloud Kubernetes platforms
+- [AWS Fault Injection Simulator](https://aws.amazon.com/fis/): inject failures in AWS resources
+- [Azure Chaos Studio](https://azure.microsoft.com/en-us/products/chaos-studio): inject failures in Azure resources
+- [Chaos Monkey](https://github.com/Netflix/chaosmonkey): one of the most famous tools to orchestrate Chaos on diverse Cloud providers
+- [Litmus Chaos](https://litmuschaos.io/) - A Framework for Kubernetes
+- [Chaos Mesh](https://chaos-mesh.org/): for Cloud Kubernetes platforms
 
 
 ----------------------------------------------------------------------------------------
