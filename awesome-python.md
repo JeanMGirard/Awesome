@@ -1,16 +1,14 @@
 # Awesome Python
 
-## Libraries
-
-## Resources
-
-### Design Patterns
-
-- [TheAlgorithms](https://github.com/TheAlgorithms/Python)
-- [python-patterns](https://github.com/faif/python-patterns): A collection of design patterns and idioms in Python.
-- [algorithms](https://github.com/keon/algorithms)
+## Module & Libraries
 
 
+
+
+
+
+
+—--------------—--—--------------—--
 
 ## Tools
 
@@ -19,6 +17,19 @@
 #### Vs Code
 
 - [autodocstring](awesome-lists/njpwerner.autodocstring)
+
+
+—--------------—--—--------------—--
+
+## Techniques & Patterns
+
+- Decorators
+- Contexts
+  - __enter__ and __exit__
+  - Execution context using contextvars
+
+
+
 
 <!-- ----------------------------------------------------------------------- -->
 
@@ -65,8 +76,16 @@
   * [python-fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
   * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
   
-  
-## Other Awesome Python Lists
+ 
+
+
+
+—--------------—--—--------------—--
+
+## Resources
+
+ 
+### Other Awesome Python Lists
 
 * [crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python)
 * [awesome-python-environment](https://github.com/ryo-ma/awesome-python-environment)
@@ -74,3 +93,10 @@
 
 
 
+### About Design Patterns
+
+- [TheAlgorithms](https://github.com/TheAlgorithms/Python)
+- [python-patterns](https://github.com/faif/python-patterns): A collection of design patterns and idioms in Python.
+- [algorithms](https://github.com/keon/algorithms)
+
+—--------------—--—--------------—--
