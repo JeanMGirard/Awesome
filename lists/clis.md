@@ -17,4 +17,6 @@
 * https://cheat.sh/
 * doctoolchain
 
+### Refactoring
 
+* [multi-gitter](https://github.com/lindell/multi-gitter): Update multiple repositories in with one command
