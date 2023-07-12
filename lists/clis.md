@@ -1,8 +1,11 @@
 # Awesome CLIs
 
-## Notes & documentation
 
-- [cheat]()
+## Shells
+
+* EMacs
+* Neovim
+* [SpaceMacs](https://www.spacemacs.org/#)
 
 ## Developers
 
@@ -16,6 +19,8 @@
 * tldr
 * https://cheat.sh/
 * doctoolchain
+* [orgmode](https://orgmode.org/index.html): Documentation tool for EMacs
+* [cheat]()
 
 ### Refactoring
 
