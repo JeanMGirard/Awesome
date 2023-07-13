@@ -1,5 +1,10 @@
 # Awesome containers
 
+## Examples
+
+* [Docker Cookbook - Code](https://github.com/how2dock/docbook/blob/master/README.md) - Multiple templates for Vagrant, compose or other technologies you can run Docker on
+
+
 ## Recommendations
 
 - [Bitnami](https://github.com/orgs/bitnami/repositories): Major contributions (240+ Charts)
