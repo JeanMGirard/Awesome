@@ -80,23 +80,27 @@
 
 
 
-—--------------—--—--------------—--
+
+—--------------—--—--------------—--
 
 ## Resources
 
- 
+
 ### Other Awesome Python Lists
 
 * [crazy-awesome-python](https://github.com/dylanhogg/crazy-awesome-python)
 * [awesome-python-environment](https://github.com/ryo-ma/awesome-python-environment)
 * [awesome-python)](https://github.com/vinta/awesome-python)
 
-
-
 ### About Design Patterns
 
 - [TheAlgorithms](https://github.com/TheAlgorithms/Python)
 - [python-patterns](https://github.com/faif/python-patterns): A collection of design patterns and idioms in Python.
 - [algorithms](https://github.com/keon/algorithms)
+
+### EBooks
+
+* [cosmic python](https://www.cosmicpython.com/book/preface.html): :star: (Free Online)
+
 
 —--------------—--—--------------—--
