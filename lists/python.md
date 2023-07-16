@@ -102,7 +102,7 @@
 
 ### EBooks
 
-* [cosmic python](https://www.cosmicpython.com/book/preface.html): :star: (Free Online)
-
+* [Infrastructure Patterns with Python](https://www.cosmicpython.com/book/preface.html): :star: (Free Online) Provided by cosmicpython
+* [Test-Driven Development with Python](http://www.obeythetestinggoat.com/)
 
 —--------------—--—--------------—--
