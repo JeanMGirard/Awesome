@@ -62,14 +62,15 @@
 - [Communities](../docs/awesome-communities.md) - Channels, forums, organizations, etc...
 - [APIs](../docs/awesome-apis.md)
 
-## Other Awesome Lists
+## Other Awesome Lists & Collections
 
-- [Awesome](https://github.com/sindresorhus/awesome) The one and only sindresorhus' list of awesome lists
+- 🌟 [Awesome](https://github.com/sindresorhus/awesome) The one and only sindresorhus' list of awesome lists
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [DevOps](http://awesome-devops.xyz/#awesome-devops)
 - [selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 - [devenv](https://github.com/jondot/awesome-devenv)
+- 🌟 [kubetools](https://github.com/collabnix/kubetools/blob/99d38fd50918e76d2a984609e8eb8a2ceedd4ea7/README.md)
 - [Helm](https://github.com/cdwv/awesome-helm)
 - [Scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
