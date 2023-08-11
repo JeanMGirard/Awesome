@@ -70,5 +70,5 @@
 - [slim builds](https://github.com/slimtoolkit/examples)
 - [knative code samples](https://github.com/knative/docs/tree/main/code-samples)
 - [istio](https://istio.io/latest/docs/examples/)
-
+- [kind CI examples](https://github.com/kind-ci/examples)
 
