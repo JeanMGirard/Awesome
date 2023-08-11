@@ -55,3 +55,20 @@
 | ------- | ---------------------------------- | ----------- |
 | Bitnami | <https://charts.bitnami.com/bitnami> | 200+ charts |
 
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------
+## Samples
+
+- [slim builds](https://github.com/slimtoolkit/examples)
+- [knative code samples](https://github.com/knative/docs/tree/main/code-samples)
+- [istio](https://istio.io/latest/docs/examples/)
+
+
