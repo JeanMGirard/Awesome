@@ -6,7 +6,7 @@
 
 ## Libraries
 
-### Frameworks
+### JS Frameworks
 
 - **General**
   - **Dojo**
@@ -21,9 +21,16 @@
   - [gatsbyjs](https://www.gatsbyjs.com/)
   - [NextJs](https://www.NextJs.com/)
 
-### Components
+### UI Frameworks
 
-- **Charts**
+- [Radix UI](https://www.radix-ui.com/)
+
+
+### Component Libraries
+
+- [floatUI]([https://www.radix-ui.com/](https://github.com/MarsX-dev/floatui))
+
+#### Charts (components)
   - [D3](https://d3js.org/)
   - [dimplejs](http://dimplejs.org/)
   - [Rickshaw](https://github.com/shutterstock/rickshaw) is a JavaScript toolkit for creating interactive time series graphs, developed at Shutterstock.
@@ -31,14 +38,18 @@
   - (R) [reaviz](https://github.com/reaviz/reaviz)
   - [data-ui](https://williaster.github.io/data-ui/)
   - [semiotic](https://semiotic.nteract.io/)
-- **Diagrams**
+
+#### Diagrams (components)
   - [diagram-maker](https://github.com/awslabs/diagram-maker)
   - (R) [reaflow](https://reaflow.dev/)
-- **Spreadsheets**
+
+#### Spreadsheets (components)
   - [Luckysheet](https://github.com/mengshukeji/Luckysheet)
-- **Grid systems**
+
+#### Grid systems (components)
   - [golden-layout](http://golden-layout.com/)
-- **other**
+
+#### Other Components
   - (R) [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd): Simple drag & drop
 
 ### Build tools
