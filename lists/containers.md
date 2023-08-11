@@ -1,17 +1,18 @@
-# Awesome containers
+# Awesome Kubernetes
 
-## Recommendations
 
 - [Bitnami](https://github.com/orgs/bitnami/repositories): Major contributions (240+ Charts)
 - [vmware-tanzu](https://github.com/vmware-tanzu) Cloud native open source from VMware
+- [Tekton Hub](https://hub.tekton.dev/) Discover, search and share reusable Tasks and Pipelines
 - **Awesome lists**
   - [awesome-helm](https://github.com/cdwv/awesome-helm)
 
----
+------------------------------------------------------------------------
 
 ## Tools
 
 - [OCP](https://gitlab.com/redhatdemocentral/ocp-install-demo)
+- [KnativeCLI](https://knative.dev)
 
 ### Kubernetes
 
@@ -25,7 +26,12 @@
 - **Kubectl plugins** (krew)
 - [kube-capacity](https://github.com/robscott/kube-capacity)
 
----
+### Container Sliming
+
+- [slim toolkit](https://slimtoolkit.org/)
+- [slim.ai](https://www.slim.ai/)
+
+------------------------------------------------------------------------
 
 ## Resources
 
