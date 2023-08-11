@@ -4,6 +4,20 @@
 
 ---
 
+
+## UI Systens
+
+- [Radix UI](https://www.radix-ui.com/)
+- [ant.design](https://ant.design/components/page-header/)
+- [Blueprint](https://blueprintjs.com/docs/#core/components/overflow-list)
+- [rsuiteJs](https://rsuitejs.com/en/components/message)
+- [react-UWP](https://www.react-uwp.com/components/autosuggestbox)
+- [material components](https://github.com/material-components/material-components-web-react)
+- [PrimeReact](https://www.primefaces.org/primereact/#/card)
+- [fluentui/react](https://github.com/microsoft/fluentui/tree/master/packages/react) Microsoft's design
+  - [react-uwp](https://www.react-uwp.com/get-started) Microsoft's UWP design (FluentUI) for React
+
+
 ## Libraries
 
 ### JS Frameworks
@@ -20,11 +34,6 @@
 - **Static sites**
   - [gatsbyjs](https://www.gatsbyjs.com/)
   - [NextJs](https://www.NextJs.com/)
-
-### UI Frameworks
-
-- [Radix UI](https://www.radix-ui.com/)
-
 
 ### Component Libraries
 
@@ -105,17 +114,6 @@
 - [react-epic-spinners](https://github.com/bondz/react-epic-spinners) - Reusable components for spinners.
 - [react-microlink](https://github.com/microlinkhq/sdk) - Convert your links into beautiful previews.
 - [Styled-icons](https://github.com/styled-icons/styled-icons) (Styled-components) Icons from popular icon packs (Font Awesome, Material, Octicons, etc).
-
-## UI Systens
-
-- [ant.design](https://ant.design/components/page-header/)
-- [Blueprint](https://blueprintjs.com/docs/#core/components/overflow-list)
-- [rsuiteJs](https://rsuitejs.com/en/components/message)
-- [react-UWP](https://www.react-uwp.com/components/autosuggestbox)
-- [material components](https://github.com/material-components/material-components-web-react)
-- [PrimeReact](https://www.primefaces.org/primereact/#/card)
-- [fluentui/react](https://github.com/microsoft/fluentui/tree/master/packages/react) Microsoft's design
-  - [react-uwp](https://www.react-uwp.com/get-started) Microsoft's UWP design (FluentUI) for React
 
 ### Units
 
