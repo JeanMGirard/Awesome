@@ -58,12 +58,6 @@
 
 
 
-
-
-
-
-
-
 ------------------------------------------------------------------------
 ## Samples
 
@@ -71,4 +65,4 @@
 - [knative code samples](https://github.com/knative/docs/tree/main/code-samples)
 - [istio](https://istio.io/latest/docs/examples/)
 - [kind CI examples](https://github.com/kind-ci/examples)
-
+- [Docker Cookbook](https://github.com/how2dock/docbook/blob/master/README.md) - Multiple templates for Vagrant, compose or other technologies you can run Docker on
