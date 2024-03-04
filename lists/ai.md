@@ -2,10 +2,26 @@
 
 
 <!-- ------------------------------------------------ -->
-## Tools
+##  Tools and Libraries
 
 - OpenAI
-- Huggingface
+- [Huggingface](https://huggingface.co/)
+- Training
+    - [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+
+
+<!-- ------------------------------------------------ -->
+## Bases
+
+- ChatGPT
+- ⭐ [lit-gpt](https://github.com/Lightning-AI/lit-gpt/tree/main)
+- Code Generation
+    - ⭐ [CodeT5](https://github.com/salesforce/CodeT5/blob/main/CodeT5%2B/README.md)
+    - [OpenAI Codex](https://openai.com/blog/openai-codex)
+    - [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/): By Meta
+    - [StarCoder](https://huggingface.co/blog/starcoder): A State-of-the-Art LLM for Code
+    - [CodeIum](https://codeium.com/?utm_source=sourceforge&utm_medium=list&utm_campaign=sourceforge1)
+    - [Ai2SQL](https://www.ai2sql.io/)
 
 <!-- ------------------------------------------------ -->
 ## Domains
@@ -20,30 +36,16 @@
 <!-- ------------------------------------------------ -->
 ## Large Language Models (LLMs)
 
-### Bases
-
-- ⭐ [lit-gpt](https://github.com/Lightning-AI/lit-gpt/tree/main)
-- Code Generation
-    - ⭐ [CodeT5](https://github.com/salesforce/CodeT5/blob/main/CodeT5%2B/README.md)
-
 ### Datasets
 
 - [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
 
 ### Transformers
 
-
 ### Usages
 
 - text-to-code
 - Voice-to-text
-- ...
-
-<!-- ------------------------------------------------ -->
-## Usages
-
-### 
-
 
 <!-- ------------------------------------------------ -->
 ## Resources
