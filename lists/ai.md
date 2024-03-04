@@ -17,19 +17,33 @@
 - ⭐ [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 
-
 <!-- ------------------------------------------------ -->
 ## Large Language Models (LLMs)
 
 ### Bases
 
-- :star: [lit-gpt](https://github.com/Lightning-AI/lit-gpt/tree/main)
+- ⭐ [lit-gpt](https://github.com/Lightning-AI/lit-gpt/tree/main)
+- Code Generation
+    - ⭐ [CodeT5](https://github.com/salesforce/CodeT5/blob/main/CodeT5%2B/README.md)
 
 ### Datasets
 
 - [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
 
-### Stages
+### Transformers
+
+
+### Usages
+
+- text-to-code
+- Voice-to-text
+- ...
+
+<!-- ------------------------------------------------ -->
+## Usages
+
+### 
+
 
 <!-- ------------------------------------------------ -->
 ## Resources
