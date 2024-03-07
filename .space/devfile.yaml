@@ -1,0 +1,39 @@
+schemaVersion: 2.2.0
+metadata:
+  name: 'My custom dev env configuration'
+attributes:
+  space:
+    instanceType: regular
+    editor:
+      # (Required) IDE type: Idea, WebStorm, PyCharm, RubyMine, CLion, Fleet, GoLand, PhpStorm
+      type: PyCharm
+      version: '2023.3'
+      updateChannel: EAP
+      vmoptions:
+      - '-Xms2048m'
+      - '-Xmx4096m'
+    warmup:
+      # create a snapshot every Sunday (only for main branch)
+      startOn:
+      - type: schedule
+        cron: '0 0 0 ? * SUN *'
+      # run additional warmup script (IDE indexes will be built anyway)
+      # script:
+      #   ./scripts/warmup.sh
+    # Parameters and secretes required by a dev environment
+    # e.g., credentials to an external service
+    requiredParameters:
+    - name: USERNAME
+      description: 'Space username'
+    requiredSecrets:
+    - name: PASSWORD
+      description: 'Space permanent token'
+# components:
+# - name: dev-container
+#   container:
+#     image: jeanmgirard.registry.jetbrains.space/p/myprj/container/my-dev-image:27
+#     env:
+#       - name: API_URL
+#         value: 'https://my-site/http_api'
+#       - name: PATH_IMG
+#         value: './img/'
