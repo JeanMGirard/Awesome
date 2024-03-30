@@ -4,9 +4,18 @@ on:
     branches:
       - master 
       - main
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
   
 jobs:
   deploy:
@@ -66,4 +75,17 @@ jobs:
       # deploy
       #----------------------------------------------
       - name: Deploy to Github pages
-        run: poetry run mkdocs gh-deploy --force
+        run: poetry run mkdocs build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: './site'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
