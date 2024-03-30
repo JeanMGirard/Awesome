@@ -1,0 +1,170 @@
+default:
+  image: python:3.9
+
+variables:
+  PKG: "package_x"
+
+workflow:
+  rules:
+    - if: $CI_COMMIT_TAG
+    - if: $CI_COMMIT_MESSAGE =~ /^bump:/
+      when: never
+    - if: $CI_COMMIT_BRANCH
+    - if: '$CI_PIPELINE_SOURCE == "schedule"'
+
+stages:
+  - check
+  - test
+  - build
+  - verify
+  - release
+  - bump
+
+.pyenv-prep: &pyenv-prep
+  - echo "Setting up environment of $PKG"
+  - cd $PKG
+  - python -V
+  - python -m pip install --upgrade pip
+  - pip install --upgrade virtualenv poetry
+  - virtualenv .venv
+  - source .venv/bin/activate
+  - poetry config --list
+  - poetry env info
+  - poetry install --remove-untracked
+
+mypy:
+  stage: check
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - when: on_success
+  before_script:
+    - *pyenv-prep
+  script:
+    - poetry run mypy --config pyproject.toml --namespace-packages --explicit-package-bases .
+
+poetry check:
+  stage: check
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - when: on_success
+  before_script:
+    - *pyenv-prep
+  script:
+    - poetry check
+
+style:
+  stage: check
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - when: on_success
+  before_script:
+    - *pyenv-prep
+  script:
+    - poetry run flake8 .
+
+.build:
+  stage: build
+  before_script:
+    - *pyenv-prep
+    - ../scripts/create_local_version.sh
+  script:
+    - poetry build
+    - poetry version
+    - mkdir info
+    - poetry export -f requirements.txt --output ./info/requirements.txt --without-hashes --with-credentials
+    # for both versions, we'll need to update the requirements.txt file:
+    - VERSION=$(poetry version | awk '{print $2}')
+    - sed -i'' "s/ @ .*;/==$VERSION/" "./info/requirements.txt"
+    - cp ../VERSION ./info/
+  artifacts:
+    paths:
+      - $PKG/dist/
+      - $PKG/info/
+
+build option1:
+  # this option modifies the pyproject.toml, and then calls poetry build
+  extends: .build
+  before_script:
+    - *pyenv-prep
+    - ../scripts/create_local_version.sh
+    - VERSION=$(poetry version | awk '{print $2}')
+    # here we change all path dependencies to compatible versions
+    - sed -i'' "s|{.*path.*|\"^$VERSION\"|" pyproject.toml
+
+build option2:
+  # this option first builds the sdist&wheel, and then modifies the files in them
+  extends: .build
+  after_script:
+    - pwd
+    - cd $PKG
+    - apt install zip
+    # here we edit the metadata contained in the artifacts (sdist&wheel) to refer to a version instead of a relative path
+    - ../scripts/replace_path_deps.sh
+
+.publish:
+  stage: release
+  rules:
+    - if: '$CI_COMMIT_TAG =~ /^v\d+.*$/'
+    - when: manual
+      allow_failure: true
+  dependencies:
+    - build package
+  before_script:
+    - pip install --upgrade twine
+  script:
+    - TWINE_PASSWORD=${CI_JOB_TOKEN} TWINE_USERNAME=gitlab-ci-token python -m twine upload --repository-url https://gitlab.com/api/v4/projects/${CI_PROJECT_ID}/packages/pypi dist/*
+
+release_job:
+  stage: release
+  image: registry.gitlab.com/gitlab-org/release-cli:latest
+  rules:
+    - if: '$CI_COMMIT_TAG =~ /^v\d+.*$/'
+  script:
+    - echo 'running release_job'
+  release:
+    name: "Release $CI_COMMIT_TAG"
+    description: "Automatic release from gitlab CI"
+    tag_name: "$CI_COMMIT_TAG"
+    ref: "$CI_COMMIT_TAG"
+
+bump version:
+  stage: bump
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - if: '$CI_COMMIT_BRANCH == "main"'
+    - when: manual
+      allow_failure: true
+  before_script:
+    - pip3 install --upgrade Commitizen
+  script:
+    - git remote -v
+    - git status
+    - git remote add api-origin https://oauth2:${CI_TOKEN}@gitlab.com/${CI_PROJECT_PATH} || git remote set-url api-origin https://oauth2:${CI_TOKEN}@gitlab.com/${CI_PROJECT_PATH}
+    - git config user.email "${CI_EMAIL}"
+    - git config user.name "${CI_USERNAME}"
+    - git remote -v
+    - 'exists=`git show-ref refs/heads/${CI_COMMIT_BRANCH}` && if [ -n "$exists" ]; then git branch -D ${CI_COMMIT_BRANCH}; fi'
+    - git checkout -b $CI_COMMIT_BRANCH # as we are on detached head
+    - ls -altr .git/hooks || echo "no old hooks here"
+    - rm -f .git/hooks/pre-commit
+    # in case a previous bump failed, can have the next tag already locally, but not yet pushed.
+    # thus removing all local tags not on the remote in 2 steps:
+    - git tag -l | xargs git tag -d
+    - git fetch --tags
+    # recently cz bump raises nonzero exit if there's nothing to do
+    - cz bump || echo "probably nothing to do" # execute auto bump and git tag
+    - TAG=$(git tag --points-at HEAD)
+    - |
+      if [[ $TAG ]]; then
+        echo "Version bumped";
+      else
+        echo "Version NOT bumped";
+        exit 0;
+      fi
+    - git log -2
+    - git push api-origin $CI_COMMIT_REF_NAME
+    - git push api-origin $TAG

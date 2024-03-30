@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "cSpell.enabled": false,
+    "ltex.enabled": false,
+    "eslint.enable": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.pytest_cache": true,
+        ".pytest_cache": true,
+        ".idea": true
+    },
+    "explorerExclude.backup": {
+    
+    },
+    "yaml.schemas": {
+        "file:///c%3A/Users/JeanM/.vscode/extensions/atlassian.atlascode-3.0.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/github-workflow.json": "file:///w%3A/JeanMGirard/docs/awesome/.github/workflows/deploy.yml"
+    }
+}
