@@ -66,4 +66,4 @@ jobs:
       # deploy
       #----------------------------------------------
       - name: Deploy to Github pages
-        run: mkdocs gh-deploy --force
+        run: poetry run mkdocs gh-deploy --force
