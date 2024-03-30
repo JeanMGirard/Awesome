@@ -19,23 +19,36 @@
 
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/sindresorhus/awesome/blob/main/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/sindresorhus/awesome/blob/main/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/sindresorhus/awesome/blob/main/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/sindresorhus/awesome/blob/main/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
 </p>
 </div>
-
-
 
 <br>
 
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+ <b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
 </div>
 
 <br>
 
+<!-- ------------------------------- -->
+
+## Table of contents
+
+- [Awesome](#awesome)
+  - [Table of contents](#table-of-contents)
+  - [My lists](#my-lists)
+  - [Other Awesome Lists \& Collections](#other-awesome-lists--collections)
+    - [Other Noticable Lists](#other-noticable-lists)
+  - [To add / Classify](#to-add--classify)
+  - [Website](#website)
+    - [Local Development](#local-development)
+
+
+<!-- ------------------------------- -->
 
 
 ## My lists
@@ -129,6 +142,16 @@
 
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
+
+
+
+
+
+## Website
+
+### Local Development
+
+
 
 
 

@@ -1,0 +1,111 @@
+
+remote_branch: master
+remote_name: origin
+repo_name: My Docs
+repo_url: "https://github.com/project/repo/wiki"
+site_author: Jean-Michel Girard
+site_description: awesome docs
+site_dir: dist
+site_name: My Docs
+site_url: https://example.com/
+copyright: "© 2020 Jean-Michel Girard"
+docs_dir: docs
+edit_uri_template: "{path_noext}/_edit"
+# extra_css:
+#   - extra.css
+# extra_javascript:
+#   - extra.js
+markdown_extensions:
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+#   - admonition:
+#       icons: font
+#   - footnotes:
+#       backlink_title: "Back to the text"
+#   - meta:
+#       url: https://example.com/
+#   - pymdownx.details:
+#       custom_css_file: details.css
+
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+#   - pymdownx.emoji:
+#       emoji_generator: !!python/name:pymdownx.emoji.to_svg ""
+  - pymdownx.highlight:
+      linenums_style: table
+#   - pymdownx.superfences:
+    #   custom_fence_div_renderers:
+    #     - name: mermaid
+    #       options:
+    #         css_class: mermaid
+    #         use_pygments: false
+    #       renderer: !!python/name:pymdownx.superfences.fence_code_format ""
+    #     - name: plantuml
+    #       renderer: !!python/name:pymdownx.superfences.fence_code_format ""
+    #   custom_fences:
+    #     - class: mermaid
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: mermaid
+    #     - class: plantuml
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: plantuml
+    #     - class: sequence
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: sequence
+    #     - class: flow
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: flow
+    #     - class: tikz
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: tikz
+    #     - class: math
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: math
+    #     - class: graphviz
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: graphviz
+    #     - class: ditaa
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: ditaa
+    #     - class: asciimath
+    #       format: !!python/name:pymdownx.superfences.fence_div_format ""
+    #       name: asciimath
+  - pymdownx.tasklist:
+      custom_checkbox: true
+#   - pymdownx.tilde:
+#       sub_enable: true
+#   - pymdownx.tabbed:
+#       tab_width: 4
+#   - pymdownx.caret:
+#       custom_caret: true
+#   - pymdownx.critic:
+#       custom_critic: true
+#   - pymdownx.inlinehilite:
+#       custom_style: inlinehilite.css
+#   - pymdownx.keys:
+#       custom_css_file: keys.css
+#   - pymdownx.mark:
+#       custom_mark: true
+#   - pymdownx.smartsymbols:
+#       custom_symbols: true
+#   - pymdownx.snippets:
+#       base_path: snippets
+nav:
+  - Introduction: "index.md"
+  - About: "about.md"
+  - Lists: lists
+  - "Issue Tracker": "https://example.com/"
+
+# theme:
+#   custom_dir: my_theme_customizations/
+#   include_sidebar: false
+#   locale: en
+#   name: mkdocs
+#   static_templates:
+#     - sitemap.html
+# use_edit_uri: true
+use_directory_urls: false
