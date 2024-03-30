@@ -19,7 +19,7 @@ pytest-cov = "^3.0"
 mkdocs = "^1.4.2"
 wikilinks = "^0.0.4"
 smarty = "^0.3.3"
-pymdown-extensions = "^9.9"
+pymdown-extensions = "^10.0"
 
 # ...and can be installed only when explicitly requested
 pre-commit = "^3.7.0"
