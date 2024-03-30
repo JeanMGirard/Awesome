@@ -308,6 +308,37 @@ python-dateutil = ">=2.8.1"
 dev = ["flake8", "markdown", "twine", "wheel"]
 
 [[package]]
+name = "gitdb"
+version = "4.0.11"
+description = "Git Object Database"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "gitdb-4.0.11-py3-none-any.whl", hash = "sha256:81a3407ddd2ee8df444cbacea00e2d038e40150acfa3001696fe0dcf1d3adfa4"},
+    {file = "gitdb-4.0.11.tar.gz", hash = "sha256:bf5421126136d6d0af55bc1e7c1af1c397a34f5b7bd79e776cd3e89785c2b04b"},
+]
+
+[package.dependencies]
+smmap = ">=3.0.1,<6"
+
+[[package]]
+name = "gitpython"
+version = "3.1.42"
+description = "GitPython is a Python library used to interact with Git repositories"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "GitPython-3.1.42-py3-none-any.whl", hash = "sha256:1bf9cd7c9e7255f77778ea54359e54ac22a72a5b51288c457c881057b7bb9ecd"},
+    {file = "GitPython-3.1.42.tar.gz", hash = "sha256:2d99869e0fef71a73cbd242528105af1d6c1b108c60dfabd994bf292f76c3ceb"},
+]
+
+[package.dependencies]
+gitdb = ">=4.0.1,<5"
+
+[package.extras]
+test = ["black", "coverage[toml]", "ddt (>=1.1.1,!=1.4.3)", "mock", "mypy", "pre-commit", "pytest (>=7.3.1)", "pytest-cov", "pytest-instafail", "pytest-mock", "pytest-sugar"]
+
+[[package]]
 name = "identify"
 version = "2.5.35"
 description = "File identification library for Python"
@@ -518,6 +549,52 @@ watchdog = ">=2.0"
 [package.extras]
 i18n = ["babel (>=2.9.0)"]
 min-versions = ["babel (==2.9.0)", "click (==7.0)", "colorama (==0.4)", "ghp-import (==1.0)", "importlib-metadata (==4.3)", "jinja2 (==2.11.1)", "markdown (==3.2.1)", "markupsafe (==2.0.1)", "mergedeep (==1.3.4)", "packaging (==20.5)", "pathspec (==0.11.1)", "platformdirs (==2.2.0)", "pyyaml (==5.1)", "pyyaml-env-tag (==0.1)", "typing-extensions (==3.10)", "watchdog (==2.0)"]
+
+[[package]]
+name = "mkdocs-git-latest-changes-plugin"
+version = "0.0.20"
+description = "MkDocs plugin that allows you to display a list of recently modified pages from the Git log"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "mkdocs-git-latest-changes-plugin-0.0.20.tar.gz", hash = "sha256:c7226f4ce6da0d8b58a864a338d965a9c1b696e63229e3395dad4b060e595d57"},
+    {file = "mkdocs_git_latest_changes_plugin-0.0.20-py3-none-any.whl", hash = "sha256:0de35ae4fa5f369409f1ad55f4700ffd768f2e6cc28628c86c978dd3bd47d6e4"},
+]
+
+[package.dependencies]
+GitPython = "*"
+mkdocs = ">=1.5"
+
+[package.extras]
+dev = ["mypy", "pre-commit", "pytest", "reuse", "ruff"]
+
+[[package]]
+name = "mkdocs-include-dir-to-nav"
+version = "1.2.0"
+description = "A MkDocs plugin include all file in dir to navigation"
+optional = false
+python-versions = ">=3.6"
+files = [
+    {file = "mkdocs_include_dir_to_nav-1.2.0-py3-none-any.whl", hash = "sha256:b09de17ad754aa93aec7ba64acf8fdd53f7a2ceb92e8cffe21646b0e97f4ddf0"},
+    {file = "mkdocs_include_dir_to_nav-1.2.0.tar.gz", hash = "sha256:2d7b0bb581471fce6f215b6381f1f4d90a3a069829281b7f5d01a5b7abee15d0"},
+]
+
+[package.dependencies]
+mkdocs = ">=1.0.4"
+
+[[package]]
+name = "mkdocs-theme-bootstrap4"
+version = "0.4.0"
+description = "A vanilla Bootstrap 4 theme"
+optional = false
+python-versions = "*"
+files = [
+    {file = "mkdocs-theme-bootstrap4-0.4.0.tar.gz", hash = "sha256:de7a31fe910eb95acb1b22c95326d276edaf3b159a9db545d98b1741286f8a8a"},
+    {file = "mkdocs_theme_bootstrap4-0.4.0-py3-none-any.whl", hash = "sha256:d72298742287bdbf234d481d428e922e5ed4cdbedd33cb73c2bb663319a4be37"},
+]
+
+[package.dependencies]
+mkdocs = ">=1.0"
 
 [[package]]
 name = "nodeenv"
@@ -837,6 +914,17 @@ files = [
 python-mpd2 = "*"
 
 [[package]]
+name = "smmap"
+version = "5.0.1"
+description = "A pure Python implementation of a sliding window memory map manager"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "smmap-5.0.1-py3-none-any.whl", hash = "sha256:e6d8668fa5f93e706934a62d7b4db19c8d9eb8cf2adbb75ef1b675aa332b69da"},
+    {file = "smmap-5.0.1.tar.gz", hash = "sha256:dceeb6c0028fdb6734471eb07c0cd2aae706ccaecab45965ee83f11c8d3b1f62"},
+]
+
+[[package]]
 name = "snowballstemmer"
 version = "2.2.0"
 description = "This package provides 29 stemmers for 28 languages generated from Snowball algorithms."
@@ -1096,4 +1184,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "f961c33694239336dffdf1defcc31b5f672a84c61fce02de92197ed3c050e82e"
+content-hash = "15e7dc57b361f2cb86822063c2aefc5a83941ba61e78eb8f28b79e81604aa185"

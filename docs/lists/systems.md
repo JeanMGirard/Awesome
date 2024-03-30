@@ -1,4 +1,4 @@
-# Awesome System Components
+# System Components
 
 ## data processing & Events
 

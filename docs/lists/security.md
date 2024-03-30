@@ -1,4 +1,4 @@
-# Awesome Security
+# Security
 
 ## Read
 

@@ -1,4 +1,4 @@
-# Awesome Infrascrutures as Code (IaC)
+# Infrascrutures as Code (IaC)
 
 
 

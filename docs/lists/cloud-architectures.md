@@ -1,4 +1,4 @@
-# Awesome Architectures
+# Architectures
 
 ## Cloud Providers
 

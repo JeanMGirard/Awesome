@@ -1,4 +1,4 @@
-# Awesome Python
+# Python
 
 ## Module & Libraries
 
