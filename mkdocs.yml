@@ -83,12 +83,12 @@ nav:
 remote_branch: master
 remote_name: origin
 repo_name: My Docs
-repo_url: https://github.com/project/repo/wiki
+repo_url: https://github.com/JeanMGirard/Awesome
 site_author: Jean-Michel Girard
 site_description: awesome docs
-site_dir: dist
+site_dir: site
 site_name: My Docs
-site_url: https://example.com/
+site_url: https://jeanmgirard.github.io/Awesome/
 theme:
   locale: en
   name: bootstrap4
