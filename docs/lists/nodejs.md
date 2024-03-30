@@ -1,4 +1,4 @@
-# Awesome NodeJS
+# NodeJS
 
 ---
 

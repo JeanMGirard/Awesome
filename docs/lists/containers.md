@@ -1,4 +1,4 @@
-# Awesome Kubernetes
+# Kubernetes
 
 
 - [Bitnami](https://github.com/orgs/bitnami/repositories): Major contributions (240+ Charts)

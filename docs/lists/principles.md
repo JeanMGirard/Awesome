@@ -1,4 +1,4 @@
-# Awesome principles
+# principles
 
 - [Awesome principles](#awesome-principles)
   - [Terms](#terms)

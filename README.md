@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome  
+#  
 
 
 <p> My Collection of Awesome Lists<br></p>

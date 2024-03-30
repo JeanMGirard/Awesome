@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+mkdocs-theme-bootstrap4 = "^0.4.0"
+mkdocs-git-latest-changes-plugin = "^0.0.20"
+mkdocs-include-dir-to-nav = "^1.2.0"
 
 [build-system]
 requires = ["poetry-core"]

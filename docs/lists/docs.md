@@ -1,4 +1,4 @@
-# Awesome docs
+# docs
 
 https://github.com/jondot/awesome-devenv
 

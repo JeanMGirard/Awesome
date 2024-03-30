@@ -1,4 +1,4 @@
-# Awesome Self-hosted
+# Self-hosted
 
 ## Static Sites 
 

@@ -1,4 +1,4 @@
-# Awesome Go
+# Go
 
 ## Command lines
 

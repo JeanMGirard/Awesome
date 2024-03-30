@@ -1,4 +1,4 @@
-# Awesome DevOps
+# DevOps
 
 - [Tools](#tools)
 - [Overview](#overview)
@@ -28,7 +28,7 @@
 
 ## Resources
 
-### Awesome lists
+### lists
 
 - [terraform](https://project-awesome.org/shuaibiyy/awesome-terraform)
 

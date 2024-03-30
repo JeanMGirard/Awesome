@@ -1,4 +1,4 @@
-# Awesome CLIs
+# CLIs
 
 
 ## Shells

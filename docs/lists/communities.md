@@ -1,4 +1,4 @@
-# Awesome communities
+# communities
 
 ## MVPs
 
