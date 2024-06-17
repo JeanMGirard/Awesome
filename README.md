@@ -95,6 +95,7 @@
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [awesome-shell](https://awesome-shell.readthedocs.io/en/latest/README/)
 - [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
+- [awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy)
 
 ### Other Noticable Lists
 
