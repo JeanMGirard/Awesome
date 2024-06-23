@@ -1,4 +1,4 @@
-# CLIs
+# Terminals
 
 
 ## Shells
@@ -30,3 +30,15 @@
 ### Refactoring
 
 * [multi-gitter](https://github.com/lindell/multi-gitter): Update multiple repositories in with one command
+
+
+------------------------------------------------------------------------------------------------------------------
+
+## To Sort
+
+* [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+* [nvchad](https://nvchad.com/)
+
+
+
+
