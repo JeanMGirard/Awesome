@@ -1,35 +1,28 @@
 <div align="center">
 
-#  
+# <small>My Collection of Awesome Lists</small>
 
-
-<p> My Collection of Awesome Lists<br></p>
-
-<!--    
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) 
--->
-
-
+<!-- Badges -->
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 [![Open in GitHub Codespaces](https://img.shields.io/badge/open-Codespace-black.svg?color=black&labelColor=black&label=Open-in)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=287333766)
+<br/>
+[![GitHub Issues](https://img.shields.io/github/issues/JeanMGirard/Awesome.svg)](https://github.com/JeanMGirard/Awesome/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/JeanMGirard/Awesome.svg)](https://github.com/JeanMGirard/Awesome/pulls) 
+[![deployed](https://github.com/JeanMGirard/Awesome/actions/workflows/deploy.yml/badge.svg)](https://github.com/JeanMGirard/Awesome/actions/workflows/deploy.yml)
+<!--  -->
 
 ------------------------------------------------------------------
 
-
 <p align="center">
  <a href="https://github.com/sindresorhus/awesome/blob/main/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/sindresorhus/awesome/blob/main/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/sindresorhus/awesome/blob/main/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
- <a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
+ <a href="https://jeanmgirard.github.io/Awesome">Go to Website</a>
 </p>
+
 </div>
-
 <br>
-
 <div align="center">
- <b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+ <b>Open this <a href="https://jeanmgirard.github.io/Awesome">repository's website</a></b> for better navigation
 </div>
 
 <br>
