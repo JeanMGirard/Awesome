@@ -14,6 +14,10 @@
 
 ## Tools
 
+### CI/CD 
+
+* [unleash](https://github.com/Unleash/unleash): Platform to manage feature flags
+
 ### IDE Plugins
 
 #### Vs Code
