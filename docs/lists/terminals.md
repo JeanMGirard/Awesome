@@ -15,9 +15,11 @@
 
 - [Wait-for-port](https://github.com/bitnami/wait-for-port)
 -
+
 ### Documentations
+
 * tldr
-* https://cheat.sh/
+* <https://cheat.sh/>
 * doctoolchain
 * [orgmode](https://orgmode.org/index.html): Documentation tool for EMacs
 * [cheat]()

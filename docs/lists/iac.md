@@ -11,11 +11,11 @@
 
 ### Testing
 
-- :star2: [OPA](https://www.openpolicyagent.org) 
+- :star2: [OPA](https://www.openpolicyagent.org)
 - [kitchen](https://kitchen.ci/)
-    - [Kitchen-Terraform](https://github.com/newcontext-oss/kitchen-terraform) Kitchen-Terraform provides a set of Test Kitchen plugins which enable the use of Test Kitchen to converge a Terraform configuration and verify the resulting infrastructure systems with InSpec controls.
+  - [Kitchen-Terraform](https://github.com/newcontext-oss/kitchen-terraform) Kitchen-Terraform provides a set of Test Kitchen plugins which enable the use of Test Kitchen to converge a Terraform configuration and verify the resulting infrastructure systems with InSpec controls.
 - [rspec](https://rspec.info/)
-    - [rspec-terraform)](https://github.com/bsnape/rspec-terraform)
+  - [rspec-terraform)](https://github.com/bsnape/rspec-terraform)
 - [InSpec](https://github.com/inspec/inspec) Chef InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
 - [Goss](https://github.com/goss-org/goss) Goss is a YAML based serverspec alternative tool for validating a server’s configuration. It eases the process of writing tests by allowing the user to generate tests from the current system state. Once the test suite is written they can be executed, waited-on, or served as a health endpoint.
 - [driftctl](https://driftctl.com/) driftctl is a free and open-source CLI that warns of infrastructure drift and fills in the missing piece in your DevSecOps toolbox.
@@ -51,13 +51,13 @@
 #### Testing
 
 - ⭐ [tfsec](https://github.com/aquasecurity/tfsec) Terraform static analysis tool that supports terraform <0.12 & >=0.12 & directly integrates with HCL parser for better results.
-- [Terratest](https://terratest.gruntwork.io/) 
+- [Terratest](https://terratest.gruntwork.io/)
 - [terraform-compliance](https://terraform-compliance.com/): A lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.
 - [kitchen](https://kitchen.ci/)
-    - [Kitchen-Terraform](https://github.com/newcontext-oss/kitchen-terraform) Kitchen-Terraform provides a set of Test Kitchen plugins which enable the use of Test Kitchen to converge a Terraform configuration and verify the resulting infrastructure systems with InSpec controls.
+  - [Kitchen-Terraform](https://github.com/newcontext-oss/kitchen-terraform) Kitchen-Terraform provides a set of Test Kitchen plugins which enable the use of Test Kitchen to converge a Terraform configuration and verify the resulting infrastructure systems with InSpec controls.
 - [rspec](https://rspec.info/)
-    - [rspec-terraform)](https://github.com/bsnape/rspec-terraform)
-- :star2: [OPA Terraform](https://www.openpolicyagent.org/docs/latest/terraform/) 
+  - [rspec-terraform)](https://github.com/bsnape/rspec-terraform)
+- :star2: [OPA Terraform](https://www.openpolicyagent.org/docs/latest/terraform/)
 
 #### Documentation & Analysis
 

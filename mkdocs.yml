@@ -1,13 +1,19 @@
-copyright: © 2020 Jean-Michel Girard
+copyright: © 2024 Jean-Michel Girard
 docs_dir: docs
-edit_uri_template: '{path_noext}/_edit'
-# extra_css:
-#   - extra.css
+edit_uri: edit/main/docs/
+watch:
+  - assets/scss
+extra_css:
+  - assets/css/theme.css
 # extra_javascript:
 #   - extra.js
+extra:
+    version: 1.0
 markdown_extensions:
   - toc:
       permalink: true
+      anchorlink_class: toclink
+      toc_depth: 4
   - codehilite:
       linenums: true
   - pymdownx.arithmatex:
@@ -76,23 +82,22 @@ markdown_extensions:
     #   - pymdownx.snippets:
     #       base_path: snippets
 nav:
-  - Introduction: index.md
-  - About: about.md
+  # - About: about.md
   - Lists: lists
-  - Issue Tracker: https://example.com/
+  - Issues: https://github.com/JeanMGirard/Awesome/issues
 remote_branch: main
 remote_name: origin
-repo_name: My Docs
+repo_name: Awesome Lists
 repo_url: https://github.com/JeanMGirard/Awesome
 site_author: Jean-Michel Girard
-site_description: awesome docs
+site_description: Awesome Lists
 site_dir: site
-site_name: My Docs
+site_name: Awesome Lists
 site_url: https://jeanmgirard.github.io/Awesome/
 theme:
   locale: en
-  name: bootstrap4
-  # custom_dir: my_theme_customizations/
+  name: bootstrap
+  # custom_dir: .
   # include_sidebar: false
   # static_templates:
   #  - sitemap.html
@@ -113,3 +118,5 @@ plugins:
       limit_to_docs_dir: True  # [True|False], defaults to False
       repo_vendor: gitea  # [github|gitlab|gitea], defaults to `repo_name`
       enabled_on_serve: True  # [True|False], defaults to True
+hooks:
+  - tools/hooks.py

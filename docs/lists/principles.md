@@ -1,6 +1,6 @@
 # principles
 
-- [Awesome principles](#awesome-principles)
+- [principles](#principles)
   - [Terms](#terms)
     - [Software development](#software-development)
     - [Architectures](#architectures)

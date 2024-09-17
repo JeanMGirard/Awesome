@@ -14,7 +14,7 @@
 
 ## Tools
 
-### CI/CD 
+### CI/CD
 
 * [unleash](https://github.com/Unleash/unleash): Platform to manage feature flags
 
@@ -22,7 +22,7 @@
 
 #### Vs Code
 
-- [autodocstring](awesome-lists/njpwerner.autodocstring)
+- [autodocstring](.)
 
 
 —--------------—--—--------------—--
@@ -82,7 +82,7 @@
   * [python-fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
   * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - A library for building powerful interactive command lines.
   
- 
+
 
 
 

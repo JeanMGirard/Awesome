@@ -19,6 +19,7 @@
 * [Google service cheatsheet](https://googlecloudcheatsheet.withgoogle.com/)
 
 -------------------------------------------------------------
+
 ## Design Patterns
 
 * [azure-architecture-patterns](https://learn.microsoft.com/en-ca/azure/architecture/patterns/)

@@ -15,7 +15,7 @@
 ## .Net
 
 - [.NET Core tools](https://docs.microsoft.com/en-us/dotnet/core/tools/global-tools)
-- [sharpscript.net](sharpscript.net)
+- [sharpscript.net](https://sharpscript.net)
 - https://docs.servicestack.net/why-servicestack
 
 ## NodeJs

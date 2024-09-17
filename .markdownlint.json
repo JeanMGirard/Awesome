@@ -3,5 +3,7 @@
     "no-emphasis-as-heading": false,
     "no-multiple-blanks": false,
     "no-inline-html": false,
-    "ul-style": false
+    "ul-style": false,
+    "no-empty-links": false,
+    "link-fragments": false
 }

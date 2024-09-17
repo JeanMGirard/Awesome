@@ -2,7 +2,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode
 site/
+docs/assets/
 
+*.pyc
+*.pyo
+*.pyd
 
 
 .idea/*

@@ -9,7 +9,7 @@
 * AsyncAPI
 * [APIs.json/APIs.yaml](https://apisjson.org/): APIs.json or APIs.yaml is a machine readable format for describing the surface area of API operations.
 * [API Blueprint](https://apiblueprint.org/): API Blueprint is a documentation-oriented API description language.
-* [RAML](https://raml.org/) 
+* [RAML](https://raml.org/)
 
 ### Security
 
@@ -30,7 +30,7 @@
 * [Protocol Buffers](https://protobuf.dev/)
 * __Data Transformation__
   * xPath
-  * JSONata 
+  * JSONata
 
 ### Service Definition (For Code Generation)
 

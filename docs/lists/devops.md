@@ -42,16 +42,18 @@
 
 - [pre-commit](https://pre-commit.com/) A framework for managing and maintaining multi-language pre-commit hooks.
 - [cheat](https://github.com/alexanderepstein/Bash-Snippets/blob/master/cheat/cheat) cheatsheets lookup
-- [peco](./awesome-lists) Interactive grep
-- [jq](./awesome-lists) json parser
-- [jsonnet](./awesome-lists) json template engine
+- [peco](.) Interactive grep
+- [jq](.) json parser
+- [jsonnet](.) json template engine
 - [snipKit](https://lemoony.github.io/snipkit/v1.3.1/)
-- [pet](awesome-lists/pet)
+- [pet](.)
 
 ### Release management  
+
 - [Semantic release](https://github.com/semantic-release/semantic-release/blob/master/docs/usage/installation.md#installation)
 
 ### Generators & Template Engines  
+
 - [jsonnet](https://jsonnet.org/) json templating engine (support for many formats available)
 - [ytt](https://carvel.dev/ytt) yaml templating engine
 - [plopjs](https://github.com/plopjs/plop)
@@ -59,15 +61,19 @@
 - Yeoman
 
 ### Linters  
+
 - [Emmet](https://github.com/emmetio/emmet#readme): Emmet is a web-developer’s toolkit for boosting HTML & CSS code writing.
 
 ### Documentation  
+
 - [Verb](https://github.com/verbose/verb/tree/dev): Verb is a documentation build system for GitHub projects powered by node.js. Verb has full support for gulp and assemble plugins and can be used to create documentation generators, themes, documentation websites and much more!
 
 ### Testing  
+
 - [dependabot](https://dependabot.com/): Automated dependency updates
 
 #### Chaos Engineering  
+
 - [chaos toolkit](https://chaostoolkit.org/): The Chaos Engineering toolkit for Developers
 - [AWS Fault Injection Simulator](https://aws.amazon.com/fis/): inject failures in AWS resources
 - [Azure Chaos Studio](https://azure.microsoft.com/en-us/products/chaos-studio): inject failures in Azure resources
@@ -145,7 +151,7 @@ Chaos Engineering is the discipline of experimenting on a system in order to bui
 
 ## Workspaces
 
-### Monorepos 
+### Monorepos
 
 Build systems and other monorepository tools
 
@@ -177,7 +183,7 @@ Build systems and other monorepository tools
 
 #### Plugins
 
-- [autodocstring](awesome-lists/njpwerner.autodocstring)
+- [autodocstring](.)
 
 ### Jetbrain
 
@@ -234,7 +240,7 @@ Flow Efficiency
 
 ## Infrastucture as code
 
-**Moved to [Awesome-IaC](./awesome-iac.md)
+**Moved to [Awesome-IaC](./iac.md)
 
 ### Tutorials
 

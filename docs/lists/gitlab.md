@@ -1,4 +1,4 @@
-# Awesome Gitlab
+# Gitlab
 
 
 ## Organizations
