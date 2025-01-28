@@ -1,6 +1,8 @@
 # UI/UX Design
 
 
+-----------------------------------------------------------------------
+
 ## Adobe
 
 * Automations
@@ -12,3 +14,13 @@
 * Plugins
   * <https://github.com/AdobeDocs/uxp-indesign-samples>
 
+
+-----------------------------------------------------------------------
+
+## Resources
+
+### Other Awesome Lists
+
+* [Awesome Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
+
+-----------------------------------------------------------------------
