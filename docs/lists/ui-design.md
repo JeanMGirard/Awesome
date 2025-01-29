@@ -14,18 +14,24 @@
 
 ##### Design Tokens
 
+* [Design Tokens For Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
+* [naming-tokens-in-design-systems](https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676)
 
-#### Design System Exemples
-
-* [Atlassian Design](https://atlassian.design/)
-* [Adobe Design System (Spectrum)](https://spectrum.adobe.com/)
-* [Salesforce (Lightning)](https://www.lightningdesignsystem.com/)
 
 #### Tools for Design Systems
 
 * ⭐ [Fractal](https://fractal.build/): Styleguide Generator
 * [Theo](https://github.com/salesforce-ux/theo): Gulp Plugin for design tokens
 * [dragoman](https://natebaldw.in/dragoman/): Gulp Plugin for design tokens
+
+#### Design System Examples
+
+* [Atlassian Design](https://atlassian.design): Atlassian's Design System
+* [Adobe Spectrum](https://spectrum.adobe.com): Adobe's Design System
+* [Salesforce Lightning](https://www.lightningdesignsystem.com): Salesforce's Design System
+* [Mozilla Protocol](https://github.com/mozilla/protocol): Mozilla's Design System
+* [Firefox Acorn](https://acorn.firefox.com): Firefox's Design System
+* [Shopify Polaris](https://polaris.shopify.com): Shopify's Design System
 
 -----------------------------------------------------------------------
 
@@ -53,7 +59,6 @@
 
 ### Articles
 
-* [Design Tokens For Dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
   
 -----------------------------------------------------------------------
 
