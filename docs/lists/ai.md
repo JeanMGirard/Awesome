@@ -1,61 +1,79 @@
 # AI
 
 
-<!-- ------------------------------------------------ -->
-## Tools and Libraries
+<!-- ------------------------------------ -->
+## AI Services & Assistants
+
+
+### General Uses
+
+* [chatgpt]()
+* ⭐ [lit-gpt](https://github.com/Lightning-AI/lit-gpt/tree/main)
+ 
+
+
+### Media & Content Generators
+
+#### Texts & Social
+
+#### Pictures & Graphics
+
+#### Videos
+
+#### Sounds & Voices
+
+
+
+### Dev & Coding Assistants
+
+#### Code Generators
+
+* ⭐ [CodeT5](https://github.com/salesforce/CodeT5/blob/main/CodeT5%2B/README.md)
+* [OpenAI Codex](https://openai.com/blog/openai-codex)
+* [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/): By Meta
+* [StarCoder](https://huggingface.co/blog/starcoder): A State-of-the-Art LLM for Code
+* [CodeIum](https://codeium.com/?utm_source=sourceforge&utm_medium=list&utm_campaign=sourceforge1)
+* [Ai2SQL](https://www.ai2sql.io/)
+
+
+
+### Others
+
+
+
+<!-- ------------------------------------ -->
+## AI Development
+
+### Tools and Libraries
 
 - OpenAI
 - [Huggingface](https://huggingface.co/)
 - Training
-  - [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+   * [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+
+### Training Datasets
+
+* [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
 
 
-<!-- ------------------------------------------------ -->
-## Bases
 
-- ChatGPT
-- ⭐ [lit-gpt](https://github.com/Lightning-AI/lit-gpt/tree/main)
-- Code Generation
-  - ⭐ [CodeT5](https://github.com/salesforce/CodeT5/blob/main/CodeT5%2B/README.md)
-  - [OpenAI Codex](https://openai.com/blog/openai-codex)
-  - [Code Llama](https://ai.meta.com/blog/code-llama-large-language-model-coding/): By Meta
-  - [StarCoder](https://huggingface.co/blog/starcoder): A State-of-the-Art LLM for Code
-  - [CodeIum](https://codeium.com/?utm_source=sourceforge&utm_medium=list&utm_campaign=sourceforge1)
-  - [Ai2SQL](https://www.ai2sql.io/)
+<!-- ------------------------------------ -->
+## Resources
 
-<!-- ------------------------------------------------ -->
-## Domains
 
-### Machine learning
-
-### Neural Networks
-
-### Prompt Engineering
+### Guides
 
 - ⭐ [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 
-<!-- ------------------------------------------------ -->
-## Large Language Models (LLMs)
-
-### Datasets
-
-- [databricks-dolly-15k](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
-
-### Transformers
-
-### Usages
-
-- text-to-code
-- Voice-to-text
-
-<!-- ------------------------------------------------ -->
-## Resources
 
 ### Other Awesome Lists
 
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-- [awesome-transformers](https://github.com/huggingface/transformers/blob/main/awesome-transformers.md#L0-L1)
+*  [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+*  [awesome-transformers](https://github.com/huggingface/transformers/blob/main/awesome-transformers.md#L0-L1)
+
+
+
 
 ### Articles
 
@@ -66,9 +84,15 @@
   - [interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker](https://aws.amazon.com/ru/blogs/machine-learning/interactively-fine-tune-falcon-40b-and-other-llms-on-amazon-sagemaker-studio-notebooks-using-qlora/)
 
 
-<!-- ------------------------------------------------ -->
+<!-- ------------------------------------ -->
 ## Glossary
 
-- Finetuning
-
+* Finetuning
+* Large Language Models (LLMs)
+* Transformers
+* text-to-code
+* Voice-to-text
+* Machine learning
+* Neural Networks
+* Prompt Engineering
 
