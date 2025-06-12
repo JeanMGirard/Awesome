@@ -34,6 +34,9 @@
 * [StarCoder](https://huggingface.co/blog/starcoder): A State-of-the-Art LLM for Code
 * [CodeIum](https://codeium.com/?utm_source=sourceforge&utm_medium=list&utm_campaign=sourceforge1)
 * [Ai2SQL](https://www.ai2sql.io/)
+* ⭐ [Cursor](https://cursor.com)
+* ⭐ [SoftGen.ai](https://softgen.ai/dashboard)
+* [Firebase Studio](https://firebase.studio/)
 
 
 
