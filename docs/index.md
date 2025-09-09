@@ -89,6 +89,7 @@
 - [awesome-shell](https://awesome-shell.readthedocs.io/en/latest/README/)
 - [awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy)
+- [awesome-age](https://github.com/FiloSottile/awesome-age)
 
 ### Other Noticable Lists
 
