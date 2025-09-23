@@ -27,6 +27,37 @@
 ### Krew Plugins
 
 * [kube-capacity](https://github.com/robscott/kube-capacity)
+
+-----------------------------------------------------------------------
+
+## Clusters
+
+### Deployment Tools
+
+* [kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
+* [Kops]()
+* [Kubeadm]()
+* [kind](https://github.com/kubernetes-sigs/kind): Kubernetes IN Docker - local clusters for testing Kubernetes
+
+
+-----------------------------------------------------------------------
+
+## Extensibility
+
+### SDKs & Frameworks
+
+* [kubebuilder](http://book.kubebuilder.io/)
+* ⭐ [operator-sdk](sdk.operatorframework.io): SDK for the operator framework.
+
+### SIGs & Operators
+
+* ⭐ [external-dns](https://kubernetes-sigs.github.io/external-dns/latest/): ExternalDNS synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
+
+### CRDs
+
+* 
+
+
  
 ------------------------------------------------------------------------
 
@@ -45,7 +76,11 @@
 ### Awesome lists
 
 * [awesome-helm](https://github.com/cdwv/awesome-helm)
-  
+
+### Tutorials
+
+* ⭐ [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way): Bootstrap Kubernetes the hard way. No scripts.
+
 ### Samples
 
 - [slim builds](https://github.com/slimtoolkit/examples)
