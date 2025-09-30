@@ -51,6 +51,7 @@
 
 About [Model Context Protocol](https://modelcontextprotocol.io/).
 
+* ⭐ [MCP Registry](https://github.com/mcp)
 * ⭐ [agentic flow](https://agenticflow.ai/app/explore)
 * [mcp-use](https://mcp-use.com/)
 
