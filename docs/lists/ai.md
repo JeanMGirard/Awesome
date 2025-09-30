@@ -24,7 +24,7 @@
 
 
 
-### Dev & Coding Assistants
+### Dev & Coding Agents
 
 #### Code Generators
 
@@ -37,7 +37,7 @@
 * ⭐ [Cursor](https://cursor.com)
 * ⭐ [SoftGen.ai](https://softgen.ai/dashboard)
 * [Firebase Studio](https://firebase.studio/)
-
+* [codex](https://github.com/openai/codex)
 
 
 ### Others
@@ -47,12 +47,23 @@
 <!-- ------------------------------------ -->
 ## AI Development
 
-### Tools and Libraries
+### MCP Agents
 
-- OpenAI
-- [Huggingface](https://huggingface.co/)
-- Training
+About [Model Context Protocol](https://modelcontextprotocol.io/).
+
+* ⭐ [agentic flow](https://agenticflow.ai/app/explore)
+* [mcp-use](https://mcp-use.com/)
+
+### Providers
+
+* OpenAI
+* [Huggingface](https://huggingface.co/)
+* Training
    * [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+
+### Tools
+
+* [LM Studio](https://lmstudio.ai/download)
 
 ### Training Datasets
 
