@@ -86,6 +86,7 @@ About [Model Context Protocol](https://modelcontextprotocol.io/).
 
 * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [awesome-transformers](https://github.com/huggingface/transformers/blob/main/awesome-transformers.md#L0-L1)
+* [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)
 * [MCP Servers](https://github.com/modelcontextprotocol/servers)
 
 
