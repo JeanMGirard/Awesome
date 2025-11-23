@@ -88,6 +88,7 @@
 - [istio](https://istio.io/latest/docs/examples/)
 - [kind CI examples](https://github.com/kind-ci/examples)
 - [Docker Cookbook](https://github.com/how2dock/docbook/blob/master/README.md) - Multiple templates for Vagrant, compose or other technologies you can run Docker on
+- [cloudposse/charts](https://github.com/cloudposse/charts): List of charts from the always great CloudPosse Organization.
 
 
 ------------------------------------------------------------------------
