@@ -21,14 +21,10 @@ activate-pwsh:
     @poetry env activate | Out-String | Invoke-Expression
 
 # ── Install:  ─────────────────────────────────────────────────
-install:
+install *args:
     @echo "Installing dependencies..."
-    # Example: npm install
-    # Example: pip install -r requirements.txt
+    @poetry install --all-groups {{args}}
 
-install-dev:
-    @echo "Installing development dependencies..."
-    @poetry install --all-groups
 
 # ── Build: build the project ─────────────────────────────────────────────────
 clean:
@@ -48,13 +44,13 @@ generate:
 #    @{{run_cmd}} toml set --toml-path zensical.toml project.nav[1]."Awesome Lists" []
 #    files := `find ./{{lists_dist}} -maxdepth 1 -type f -iname '*.md' -not -iname '_*'`
 
-build: clean generate
+build *args: clean generate
     @echo "Building the project..."
-    @{{run_cmd}} zensical build
+    @{{run_cmd}} zensical build {{args}}
 
-serve: clean generate
+serve *args: clean generate
     @echo "Starting development server..."
-    @{{run_cmd}} zensical serve
+    @{{run_cmd}} zensical serve {{args}}
 
 watch: serve
     @{{run_cmd}} watchmedo shell-command \
