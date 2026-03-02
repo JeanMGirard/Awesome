@@ -11,13 +11,13 @@
     "customizations": {
         "vscode": {
             "extensions": [
-		"k--kato.intellij-idea-keybindings",
+                "k--kato.intellij-idea-keybindings",
                 "yzhang.markdown-all-in-one",
-		"DavidAnson.vscode-markdownlint",
-		"editorconfig.editorconfig",
-		"poeticandroid.vscode-poetry",
+                "DavidAnson.vscode-markdownlint",
+                "editorconfig.editorconfig",
+                "poeticandroid.vscode-poetry",
                 "aaron-bond.better-comments"
-	    ]
+            ]
         }
     }
 }
