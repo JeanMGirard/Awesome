@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "awesome"
+name = "awesome-lists"
 version = "0.1.0"
 description = ""
 authors = ["Jean-Michel Girard <Jean.M.Girard@Outlook.com>"]
 readme = "README.md"
-package-mode = false 
+package-mode = false
 
 [build-system]
 requires = ["poetry-core"]
@@ -12,27 +12,44 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry.dependencies]
-python = "^3.9"
-mkdocs-git-latest-changes-plugin = "^0.0.20"
-mkdocs-include-dir-to-nav = "^1.2.0"
-mkdocs-bootstrap = "^1.1.1"
+python = "^3.12"
+mkdocs-material = "^9.7.3"
+zensical = "^0.0.24"
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^7.1.2"
-pytest-cov = "^3.0"
-mkdocs = "^1.4.2"
-wikilinks = "^0.0.4"
-smarty = "^0.3.3"
-pymdown-extensions = "^9.9"
+pytest = "^9.0.2"
+pytest-cov = "^7.0.0"
 pre-commit = "^3.7.0"
-libsass = "^0.23.0"
+mdformat = "^1.0.0"
+mdformat-gfm = "^1.0.0"
+mdformat-pyproject = "^0.1.1"
+mdformat-mkdocs = "^5.1.4"
+watchdog = "^6.0.0"
+mdformat-frontmatter = "^2.0.10"
+tomcli = "^0.10.1"
+tomli = "^2.4.0"
+tomli-w = "^1.2.0"
 
-[tool.poetry.group.docs.dependencies]
-Sphinx = "^5.1.1"
-
-[tool.poetry.group.docs]
-optional = true
-
-# Python-style entrypoints and scripts are easily expressed
-[tool.poetry.scripts]
-serve = "mkdocs serve"
+[tool.mdformat]
+wrap = "keep"         # options: {"keep", "no", INTEGER}
+# number = false        # options: {false, true}
+# end_of_line = "lf"    # options: {"lf", "crlf", "keep"}
+# validate = true       # options: {false, true}
+extensions = [
+  "gfm",
+  "frontmatter",
+  "mkdocs",
+  "pyproject"
+] # options: a list of enabled extensions (default: all installed are enabled)
+# codeformatters = [  # options: a list of enabled code formatter languages (default: all installed are enabled)
+#     "python",
+#     "json",
+# ]
+exclude = [ # Python 3.13+ only:
+  # exclude all files that are not suffixed .md
+  "**/?", "**/??", "**/???", "**/*[!.]??", "**/*[!m]?", "**/*[!d]",
+  "CHANGELOG.md",
+  "venv/**",
+  ".venv/**",
+  "public/**"
+]
