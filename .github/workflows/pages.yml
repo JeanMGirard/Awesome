@@ -1,13 +1,16 @@
-name: Documentation
+name: Deploy GitHub Pages
+
 on:
   push:
     branches:
       - master
       - main
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 jobs:
   deploy:
     environment:
@@ -26,7 +29,7 @@ jobs:
       - run: just build --clean
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: dist
+          path: public
       - uses: actions/deploy-pages@v4
         id: deployment
 
