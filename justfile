@@ -25,7 +25,6 @@ install *args:
     @echo "Installing dependencies..."
     @poetry install --all-groups {{args}}
 
-
 # ── Build: build the project ─────────────────────────────────────────────────
 clean:
     @echo "Cleaning build artifacts..."
