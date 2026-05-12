@@ -1,5 +1,11 @@
 # AI
 
+## Awesome AI
+
+* [awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
+* [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers/blob/main/README.md)
+* [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
+
 <!-- ------------------------------------ -->
 
 ## AI Services & Assistants
